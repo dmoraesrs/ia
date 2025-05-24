@@ -1,0 +1,1001 @@
+id_registro|setor|idade|genero|causa_afastamento|dias_afastado|cid_simulado|data_inicio_afastamento
+99193f45-bce5-425f-b49f-20b3b5fc32b7|Atendimento|25|Masculino|Depressão|8|R26.4|2024-11-12
+9aa5edcd-01e3-4588-840a-abc6469b649c|Atendimento|44|Masculino|Problemas circulatórios por sedentarismo|27|T90.6|2024-11-02
+8729cee2-57b8-46b3-bf41-e53b799291be|Logística|24|Masculino|Depressão|106|T40.6|2024-02-27
+2d6e1861-80da-4787-b17d-63665162f0d6|Operações|25|Outro|Crise hipertensiva induzida por estresse|113|T34.5|2024-12-29
+e1e49581-af32-4102-b9fc-aaa54bc8f1eb|Comercial|57|Feminino|Cervicalgia (dores no pescoço)|50|R50.9|2024-07-19
+cc78f51a-1707-4c9a-969a-2b91bf37e3a0|Financeiro|52|Masculino|Depressão|17|R61.8|2025-02-28
+8701cd4d-c70e-4199-a1d8-5cdc73c616ae|Marketing|32|Outro|Choque elétrico por equipamentos mal conservados|71|F34.4|2023-11-10
+8c3169f7-c397-47c5-bbbd-cf60e942e1d7|TI|61|Outro|Estresse ocupacional|93|M94.3|2024-09-29
+63c8154a-8731-4019-9e67-110efbb7d6a8|Comercial|31|Masculino|Choque elétrico por equipamentos mal conservados|46|T14.5|2023-05-29
+6bd9bf1c-ad8a-4052-8d30-c7e1ae073d0e|Financeiro|54|Outro|Síndrome do túnel do carpo|52|R68.0|2024-11-08
+d0340e48-2182-48d8-bbe1-cc0d91a4fcb1|Atendimento|50|Outro|Ansiedade relacionada ao trabalho|40|M23.9|2024-02-10
+f2db044d-e2af-42a4-a476-ab8813ea5fef|TI|43|Masculino|Alergia a poeira ou ácaros no ambiente|21|F39.7|2023-08-28
+71118bf6-2221-4a1b-a3e6-89d53eff059d|Comercial|22|Feminino|Problemas lombares|80|M36.1|2024-03-11
+4b0a2b3a-17d4-44f5-b95e-7b5f23cc1949|TI|36|Outro|Problemas de visão (uso prolongado de telas)|62|F15.8|2024-05-08
+62a25bc7-171a-44a0-b369-c5f3acd820a9|Logística|60|Outro|Fadiga crônica|34|T22.9|2024-05-05
+6fab5a48-c306-46f5-9605-7be60cd93b9b|Atendimento|27|Outro|Síndrome do túnel do carpo|74|T82.2|2024-04-26
+7a1a4184-f6b4-4c53-a269-b9fa32270cbd|Logística|48|Feminino|Depressão|105|M18.4|2024-08-01
+cd959fc5-6896-48d8-973b-828600da74c0|Jurídico|54|Outro|Problemas lombares|85|T36.6|2024-02-02
+73630b5d-e7af-4bb7-9128-1333d310a66d|Comercial|23|Feminino|Enxaqueca relacionada a iluminação inadequada|90|G36.1|2024-07-28
+81f17ae2-ce74-4286-9c2b-0b449498dc66|Marketing|62|Outro|Ansiedade relacionada ao trabalho|90|G23.3|2024-03-25
+0163780b-84c9-4291-825b-003dee63f810|Atendimento|45|Outro|Problemas lombares|120|M62.5|2024-08-29
+fadc6cd5-21ad-4637-b99b-3a97c7ad5e7f|Administrativo|39|Masculino|Distúrbios de sono por carga de trabalho|94|G91.4|2023-11-29
+221e70e0-7d49-4047-bc0e-829f8df213ba|Marketing|43|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|71|F71.9|2023-12-12
+cdc3a2aa-fb39-4581-8393-2e09d850d176|Financeiro|35|Feminino|Ansiedade relacionada ao trabalho|20|R16.0|2023-10-25
+58fd0044-ad83-4876-bede-38092b3e8ed2|Administrativo|29|Outro|Problemas respiratórios por ar condicionado|42|F41.4|2024-11-21
+7ddd1cd0-5e0d-4ec6-a961-7da5f2e22fb7|Logística|48|Feminino|Tendinite|18|F78.1|2024-02-05
+05848767-dda5-4919-a302-d79e41e1301f|Administrativo|55|Feminino|Choque elétrico por equipamentos mal conservados|37|G81.4|2024-08-16
+66ff657b-91e3-44f2-915b-a60073bc9d29|Logística|53|Outro|Ansiedade relacionada ao trabalho|19|R43.8|2024-08-14
+e78e5e48-0353-4bbd-8280-f7a3685021f0|Financeiro|32|Masculino|Fadiga crônica|72|R72.7|2023-09-25
+549d2f86-b8af-42e0-b644-3b25de959eaa|Marketing|51|Feminino|Ansiedade relacionada ao trabalho|56|R91.0|2023-07-23
+4088abc3-c6c2-43ed-bb5e-b99a64a56165|Financeiro|28|Outro|Alergia a poeira ou ácaros no ambiente|17|M45.4|2024-06-09
+92cdc60e-7ddf-41b0-81ed-d397fd0ca16b|Operações|52|Outro|Crise hipertensiva induzida por estresse|6|G54.3|2024-08-31
+d215a891-dee9-49d1-bfe7-fe64e1769831|Marketing|57|Outro|Fadiga crônica|27|M39.2|2024-10-08
+0e8d83fb-0a15-4f38-b650-554073d8872d|Logística|28|Outro|Distúrbios alimentares em razão da jornada|115|G10.1|2024-06-02
+a0971da4-4508-440f-8060-1bbed82dc9bd|Operações|41|Feminino|Alergia a poeira ou ácaros no ambiente|53|F14.2|2025-02-12
+84e1ff01-5deb-4da5-b6e0-f6c34da05172|Financeiro|41|Masculino|Distúrbios alimentares em razão da jornada|32|G24.4|2025-04-24
+a39771c9-d06c-45bf-ac46-aa6d2b1a2dae|Logística|35|Outro|Cervicalgia (dores no pescoço)|113|T56.5|2023-05-28
+900fb551-d56d-4174-8471-0d3d148b0385|Operações|39|Masculino|Acidentes com quedas internas|16|M40.2|2023-10-03
+9e0b47c8-d95b-4852-9ba4-056878295f4c|Logística|28|Outro|Distúrbios alimentares em razão da jornada|98|T23.0|2023-08-12
+7bddf871-6527-49b8-8093-7c1f9eec16e0|Marketing|30|Masculino|Choque elétrico por equipamentos mal conservados|5|F20.8|2024-03-13
+d120f869-3185-49bb-954f-e311a09a9d68|Marketing|22|Feminino|Distúrbios alimentares em razão da jornada|120|G28.8|2025-04-02
+586c87ad-53bf-48f5-832c-a9f0f5c4f7f4|Financeiro|45|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|19|T80.7|2024-05-19
+e5857355-e08c-459a-b42f-8e2bf9c391ef|Comercial|40|Feminino|Alergia a poeira ou ácaros no ambiente|101|F33.9|2024-07-04
+abd1ce9a-5ac8-4cec-84bb-e96db8d8abe3|Operações|48|Feminino|Ansiedade relacionada ao trabalho|94|R46.3|2025-03-19
+222bf4fd-dfdf-4ea7-8dee-a7413743237b|Logística|47|Masculino|Síndrome do túnel do carpo|119|F36.5|2025-04-27
+032e5bb8-eb7a-4815-8b7f-a64c5b923e1d|Financeiro|23|Masculino|Ansiedade relacionada ao trabalho|118|F75.0|2024-04-26
+e8e036bb-431f-4f29-b19f-184047c9d5c1|Jurídico|27|Outro|Distúrbios alimentares em razão da jornada|18|G66.7|2024-01-30
+800aa8fe-1e4d-4093-9e29-1b94db2690ce|TI|32|Outro|Problemas circulatórios por sedentarismo|102|R46.9|2025-02-08
+e2681e4f-5502-4921-bc21-bacfb9cf7838|Atendimento|29|Outro|Crise hipertensiva induzida por estresse|63|M73.7|2023-09-26
+328527fe-b634-4974-aa06-2efef5bcaa67|Operações|22|Outro|Choque elétrico por equipamentos mal conservados|21|R25.3|2024-04-17
+ddb90337-88b9-49fd-8bf4-04f3df8fd2da|Atendimento|27|Feminino|Choque elétrico por equipamentos mal conservados|79|R44.9|2024-05-15
+90fba995-fa21-4ec6-a245-910548b3a141|Marketing|37|Outro|Problemas circulatórios por sedentarismo|38|M82.9|2023-07-23
+c0726e37-4038-4d33-86c8-7ee45eba9083|Comercial|36|Feminino|Distúrbios de sono por carga de trabalho|36|G92.4|2024-01-06
+d64db1bf-57de-490d-abc7-69500d3141da|Comercial|36|Outro|Cervicalgia (dores no pescoço)|91|R28.3|2024-02-19
+ff85cff1-8992-4e74-95ee-13b1c719e9e5|Administrativo|34|Masculino|Ansiedade relacionada ao trabalho|107|T97.1|2023-08-25
+52f436f7-dfb5-433c-9eb9-30e457772c85|Operações|23|Outro|Problemas lombares|39|T32.4|2024-04-24
+142c92ff-5354-4658-af6e-b8ab98004c79|Comercial|26|Masculino|Ansiedade relacionada ao trabalho|103|M37.4|2025-03-29
+f07b67ce-0b9d-45b1-8555-6120f59d496c|Operações|43|Outro|Fadiga crônica|92|F13.2|2024-10-25
+4df0dd4a-6cda-4445-bc33-3336f801d002|Atendimento|45|Feminino|Choque elétrico por equipamentos mal conservados|35|R61.0|2023-08-06
+da17a87a-f0ef-4ef8-a247-5bf0b42765c7|Administrativo|44|Feminino|Problemas lombares|22|T99.5|2024-04-30
+cd6eb463-d16c-4ff8-b18f-06ac996690e0|TI|55|Feminino|Tendinite|32|F81.4|2024-02-14
+2f3ef4be-7c4c-4ae4-8c6c-893a85766a56|Operações|49|Outro|Síndrome de Burnout|69|F61.8|2024-11-12
+43d25a3d-d247-494b-a610-ade1d475b3eb|Operações|29|Feminino|Problemas de visão (uso prolongado de telas)|36|M93.6|2024-08-18
+3805b555-3ee8-48f2-975d-06de37a36048|Comercial|40|Masculino|Acidentes com quedas internas|98|R57.1|2023-10-30
+f898dff2-8a0a-4f2b-854a-8b79e901a7c7|Atendimento|53|Feminino|Enxaqueca relacionada a iluminação inadequada|7|T77.1|2025-03-13
+65d417d5-65ce-42e3-822a-c537af595fa0|Comercial|25|Masculino|Depressão|102|T25.7|2024-02-03
+205af0f2-4cb0-493e-adf8-8a090782069b|Comercial|57|Masculino|Enxaqueca relacionada a iluminação inadequada|95|M62.9|2023-09-29
+7a39d0d0-d2f0-47b0-844f-3bf2a3b42510|RH|61|Feminino|Estresse ocupacional|23|G45.9|2024-12-04
+b34f25dd-fed4-447e-92e4-20c18a8dcf41|Operações|44|Feminino|Síndrome de Burnout|26|G81.4|2024-09-10
+021b9673-cbf9-4e93-97f1-befceddc1084|TI|37|Masculino|Depressão|5|T67.7|2024-11-05
+b4bd9160-d94e-4af2-9f04-e7e98d848d96|Logística|43|Masculino|Problemas de visão (uso prolongado de telas)|44|R87.1|2023-08-08
+8905714d-8616-4083-8308-8d02da96c835|TI|36|Outro|Crise hipertensiva induzida por estresse|86|M38.2|2023-08-26
+17b13cf7-c78c-4f9d-9108-f55fda5b2cae|Marketing|28|Feminino|Ansiedade relacionada ao trabalho|16|F52.3|2024-11-07
+ddd81b73-1ef6-43f2-a530-82629ca9ae30|Operações|54|Masculino|Síndrome de Burnout|11|G37.0|2023-09-14
+ab539f83-ff17-4ccd-9bec-af3b70966daa|Logística|34|Masculino|Ansiedade relacionada ao trabalho|78|R97.5|2023-06-18
+64d97189-fb36-469e-9cc2-956201c67e92|Jurídico|39|Outro|Alergia a poeira ou ácaros no ambiente|107|G13.1|2024-08-15
+86ed80ed-5e1f-47a9-a601-5ce386964924|Comercial|48|Outro|Distúrbios alimentares em razão da jornada|20|T43.3|2025-04-25
+5c151635-f489-4314-b7fb-f78bbab1ba08|Atendimento|30|Feminino|Problemas respiratórios por ar condicionado|26|R55.2|2023-08-04
+bc150a5b-9bc8-4834-95ba-8553cea7d7e7|TI|34|Outro|Problemas lombares|58|T63.2|2024-04-07
+ff3e1632-347d-42e5-a4e5-299a1bf7c99d|Jurídico|62|Masculino|Problemas respiratórios por ar condicionado|25|F53.2|2025-02-27
+85a5c3e6-775c-46d9-97cf-9084ceb618fe|Administrativo|62|Masculino|Crise hipertensiva induzida por estresse|24|F51.1|2024-08-23
+525fc550-5772-429e-aa76-d19278b278a5|Atendimento|43|Outro|Cervicalgia (dores no pescoço)|29|G54.1|2025-04-28
+aebc5a6b-2d20-407b-bf76-1110d04c67e2|Operações|35|Outro|Alergia a poeira ou ácaros no ambiente|92|F12.8|2025-03-05
+32e4f0ee-71ae-4ac4-af90-6ce48a904b6e|Marketing|47|Feminino|Estresse ocupacional|51|F98.0|2024-08-07
+6880bf58-fd11-42a9-a65e-8c805fc888d0|Jurídico|30|Outro|Problemas respiratórios por ar condicionado|56|M64.9|2023-10-25
+6315774a-d353-4934-ac9d-e82ecf11620d|Financeiro|32|Masculino|Síndrome do túnel do carpo|117|R66.5|2024-05-19
+82286155-9a5e-46f2-b65d-2bfb873c99d9|Administrativo|27|Masculino|Distúrbios de sono por carga de trabalho|6|G66.1|2024-11-09
+915877f2-292c-4808-b43a-c63b69e0d160|RH|43|Feminino|Síndrome de Burnout|24|F79.9|2023-06-24
+8c6deda4-354f-4d29-b36e-2f5cef9186bd|Marketing|33|Feminino|Problemas circulatórios por sedentarismo|60|R74.8|2024-09-27
+99f4b954-9024-47d0-b4be-136a17b01889|Marketing|22|Masculino|Ansiedade relacionada ao trabalho|31|G23.1|2023-10-18
+e55280aa-8f8e-4671-a7b2-95b6a2030bc1|Financeiro|44|Outro|Síndrome de Burnout|40|T78.3|2024-03-13
+fdcc84c6-eab2-46cc-8a45-8a99ace99819|Marketing|53|Outro|Ansiedade relacionada ao trabalho|104|G61.4|2024-07-24
+10127a45-9a58-4726-a435-6c26676e1a21|Comercial|30|Masculino|Cervicalgia (dores no pescoço)|114|M32.9|2023-07-19
+ad9b52fc-e257-495d-a6fe-e0cb40e7828a|Atendimento|30|Outro|Enxaqueca relacionada a iluminação inadequada|23|F32.1|2023-11-18
+aa90034d-c577-4a96-944b-edf13be35b70|Administrativo|59|Masculino|Choque elétrico por equipamentos mal conservados|115|T44.7|2024-06-30
+1cd07777-0a41-4d39-9a72-576456fbea3b|Logística|61|Feminino|Depressão|59|F50.0|2023-05-27
+b8038303-1ab2-41d5-b22f-dd11fba6f45c|Operações|28|Outro|Alergia a poeira ou ácaros no ambiente|107|M39.4|2024-03-31
+f43de24d-11bc-461f-b299-55dd91524ecc|RH|45|Feminino|Depressão|111|G36.4|2024-01-18
+b1b47490-ff41-49c0-93ed-d429db409439|Jurídico|26|Outro|Depressão|46|F30.1|2023-06-13
+a206b90a-8eee-4a9a-b0b1-d3a15d250d65|RH|39|Feminino|Crise hipertensiva induzida por estresse|13|R91.2|2024-08-30
+d2baad46-ee9b-41f4-9963-81754100af18|Comercial|24|Masculino|Ansiedade relacionada ao trabalho|11|M73.8|2024-04-23
+7804db26-59cc-4794-bf39-0fade83f0303|Operações|56|Outro|Depressão|11|T53.0|2024-10-09
+edb38d0b-b8ed-44ec-b009-c1eac8ded532|Administrativo|34|Outro|Fadiga crônica|26|F65.6|2024-06-08
+3dede21e-96dd-4b39-97f2-d1bab074b0c8|Logística|55|Outro|Estresse ocupacional|7|T56.4|2023-08-10
+3acfaede-6622-4b09-9b48-9e74bcc3e0bf|Comercial|34|Outro|Cervicalgia (dores no pescoço)|68|T16.5|2024-11-28
+899e14d6-977e-44bc-ad1d-a98f535fb20c|Administrativo|47|Masculino|Alergia a poeira ou ácaros no ambiente|101|T25.0|2023-07-07
+8d035a18-c1d5-42a3-9312-0c9c92c377b7|Comercial|55|Outro|Problemas respiratórios por ar condicionado|94|M18.6|2023-07-07
+4df5e996-c71f-4ef1-aeba-6a3a6b05041a|Financeiro|53|Masculino|Alergia a poeira ou ácaros no ambiente|92|T23.8|2024-06-07
+ede47fdf-379d-4c86-8b2e-8bfab9dca46e|Atendimento|61|Masculino|Depressão|120|G33.3|2024-07-02
+f343dc2c-809e-4f31-8c32-1287b817a09d|Jurídico|46|Feminino|Tendinite|62|R37.2|2024-08-07
+3737de87-d22d-45a1-9e2a-aabe6c9b7acc|RH|52|Masculino|Problemas respiratórios por ar condicionado|34|F41.8|2024-07-14
+445f70ab-7cb8-46d6-9f40-10f2064b0ce7|Comercial|37|Masculino|Síndrome de Burnout|73|G38.1|2024-09-09
+9fdfb510-daea-41bb-9585-f9654211c7e6|Marketing|38|Feminino|Ansiedade relacionada ao trabalho|57|F24.9|2023-08-14
+c5e461d1-1735-42d3-bc05-f6c40e6d12dc|TI|44|Feminino|Alergia a poeira ou ácaros no ambiente|83|F14.5|2024-06-17
+6493d076-c877-47a2-b87d-e10576246b1f|Financeiro|62|Outro|Síndrome de Burnout|8|F70.1|2024-12-23
+e6b59218-85ca-4a6f-aa84-d24b8d47beb7|Financeiro|43|Outro|Alergia a poeira ou ácaros no ambiente|28|M92.5|2025-01-03
+04f40b77-a313-46bf-bd4d-a7e4463916cc|Jurídico|25|Masculino|Ansiedade relacionada ao trabalho|36|R50.3|2024-07-12
+bdea6dc0-f667-4379-be30-c69d2e2be6e5|TI|25|Feminino|Ansiedade relacionada ao trabalho|15|M39.0|2024-05-13
+31fb057d-9333-4803-afd5-27e61507ff90|Administrativo|60|Masculino|Choque elétrico por equipamentos mal conservados|99|F42.1|2024-11-07
+fb55052b-473d-45de-bd01-e05e028c3f82|Atendimento|26|Masculino|Problemas de visão (uso prolongado de telas)|98|M45.9|2024-03-06
+57e79338-4a24-4153-b8b0-c72d92a50c92|Marketing|37|Masculino|Crise hipertensiva induzida por estresse|17|R33.7|2023-06-24
+3f4fcb3b-861a-4b39-a792-ae0a881f7648|Administrativo|48|Masculino|Problemas de visão (uso prolongado de telas)|84|G52.4|2024-02-25
+516f1474-4a57-45b0-b4c8-87560e4a086d|RH|39|Outro|Depressão|61|G86.8|2025-03-07
+d29b20cd-33ef-40fa-89a2-107f556df580|Jurídico|51|Masculino|Depressão|91|F40.0|2023-08-21
+aee4d25e-f3e9-4f3d-b629-2eab508dde0a|Logística|59|Feminino|Síndrome do túnel do carpo|84|T26.5|2025-01-17
+31433433-ff6d-4610-8748-437af05e7d63|Financeiro|33|Outro|Problemas lombares|71|G47.1|2023-06-26
+a60a8d07-bed4-4b0e-bd83-233424521f5f|Atendimento|44|Feminino|Distúrbios de sono por carga de trabalho|73|F13.5|2023-10-29
+e5e04787-8fd6-4916-8ca8-f08f25a2fdad|Administrativo|32|Outro|Síndrome de Burnout|40|T28.7|2023-10-31
+359e84be-aa08-4098-a5e3-bf070d642833|TI|39|Outro|Síndrome de Burnout|74|T93.7|2024-05-25
+e5ba4125-ea3a-4f59-8552-193dec9e4da8|Marketing|36|Outro|Crise hipertensiva induzida por estresse|107|F17.5|2025-01-06
+942134eb-5434-415b-be15-5c030b6e9670|Operações|54|Feminino|Cervicalgia (dores no pescoço)|95|R46.9|2024-05-01
+372e48cc-e321-4fac-b3c5-c813a02d706a|Operações|31|Feminino|Problemas circulatórios por sedentarismo|50|M94.6|2024-02-12
+68c622f5-162b-442b-84ad-55a69658e256|RH|61|Feminino|Estresse ocupacional|80|G21.6|2023-06-14
+c9b1a4bf-2227-45a5-8ad1-f7d6bf2538e5|Administrativo|46|Feminino|Choque elétrico por equipamentos mal conservados|88|M59.3|2023-07-10
+891920ec-c0f0-4509-9ab7-148a2052fc64|RH|47|Masculino|Síndrome do túnel do carpo|58|F29.8|2025-02-12
+aae71ed6-aa4c-4b40-9a31-1a6b00b7e7ab|Jurídico|23|Masculino|Problemas circulatórios por sedentarismo|101|R25.2|2024-05-29
+4c56ccfd-aebe-4a59-be06-f5993ba55843|Operações|40|Masculino|Enxaqueca relacionada a iluminação inadequada|97|G85.9|2023-09-01
+e61907c8-39d9-4ae6-b106-1996352bf379|Comercial|39|Outro|Crise hipertensiva induzida por estresse|64|F33.1|2024-01-27
+21d4e4f9-dde8-4325-96f9-61f4f1939fe4|Marketing|47|Outro|Problemas de visão (uso prolongado de telas)|44|R98.1|2025-01-08
+720eb870-cda9-4582-b9e9-cb814df560ef|Logística|43|Masculino|Estresse ocupacional|119|T91.8|2025-05-02
+c0b8a613-8850-45ac-b76b-22b7683af1be|Logística|49|Feminino|Estresse ocupacional|74|G18.2|2025-03-21
+7b28c61e-0083-4c37-b52f-767c0aff0d75|RH|38|Feminino|Tendinite|71|M69.1|2023-11-24
+0867ae4e-71dc-4adc-9877-c80793166275|Comercial|48|Outro|Problemas de visão (uso prolongado de telas)|118|G18.8|2023-07-02
+be6d359a-b30d-45fa-b49e-6052bde5922d|Financeiro|45|Masculino|Síndrome do túnel do carpo|34|R11.5|2024-07-29
+92e59f0a-6df7-483c-93ba-f4ebcf5991fb|Marketing|27|Feminino|Problemas respiratórios por ar condicionado|50|T15.7|2024-11-05
+593db6f3-d6ba-45a5-9c56-a36cd5ca76a7|Jurídico|30|Feminino|Alergia a poeira ou ácaros no ambiente|72|G53.3|2025-02-23
+d9f9b826-2d0b-44dd-9b62-68046ffb2701|Logística|57|Outro|Enxaqueca relacionada a iluminação inadequada|99|F23.4|2023-12-11
+12f1fa56-9221-44b0-9350-7c0423dd9a35|Administrativo|45|Masculino|Fadiga crônica|40|T91.7|2023-12-01
+443cbb61-a0f7-46af-9c7d-a1d6e481cd3b|Administrativo|43|Feminino|Enxaqueca relacionada a iluminação inadequada|14|M44.8|2024-08-28
+bb820c16-a926-4542-9483-fe5285ca092e|Comercial|26|Outro|Fadiga crônica|17|M93.1|2024-02-01
+92ca7ee3-2b41-4d83-ab66-bf909818c7c3|TI|59|Outro|Síndrome do túnel do carpo|56|F90.7|2023-06-23
+d58069b0-4cb4-447d-ae51-e8f90cc731ee|Jurídico|24|Masculino|Acidentes com quedas internas|80|R85.7|2024-06-14
+7727d789-c9be-4857-bfe2-eb4985268b38|Jurídico|45|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|19|F86.4|2024-04-20
+5ef3954a-a7ed-4717-b632-1145629b4d85|Financeiro|39|Feminino|Síndrome do túnel do carpo|41|R11.5|2023-08-30
+d29fdbee-0628-4462-b470-4fbd6fdae8be|Administrativo|62|Feminino|Enxaqueca relacionada a iluminação inadequada|58|F81.0|2024-08-16
+48fa1b5f-87fa-4637-b0fa-465eabba65db|Operações|54|Feminino|Distúrbios alimentares em razão da jornada|37|F29.7|2024-09-05
+1eef1f93-56b3-4419-8b07-49b893fd5c6e|Jurídico|39|Outro|LER/DORT (Lesão por Esforço Repetitivo)|60|T31.8|2024-03-25
+8f2f3ca1-7bb9-46b3-9c03-ca7cc5c60530|Operações|32|Outro|Problemas respiratórios por ar condicionado|87|M62.6|2024-05-20
+4e7f5c2a-31a5-4ecb-b3a4-99c7dc6ea75b|RH|27|Masculino|Ansiedade relacionada ao trabalho|38|G90.1|2024-11-12
+adabc252-3756-40c4-b031-93a83202ab26|Financeiro|59|Masculino|Problemas lombares|50|R69.9|2024-09-01
+45a20a08-698c-4638-997b-be02ae0ef562|Administrativo|37|Feminino|Problemas lombares|36|M38.4|2023-12-15
+99064952-92d9-4859-8865-6a5dacfb903d|Atendimento|31|Outro|Síndrome do túnel do carpo|117|F50.8|2024-10-31
+1ed2ff9f-0f88-4bee-8fae-76b52201a004|Comercial|29|Outro|Crise hipertensiva induzida por estresse|6|T19.2|2023-10-17
+b110a07e-f14c-459a-8085-2a8b239542b7|Administrativo|36|Feminino|Ansiedade relacionada ao trabalho|43|R68.7|2024-11-07
+0323fb52-8347-4650-bc2e-a9ce38451e77|Logística|41|Outro|Fadiga crônica|75|T29.2|2025-03-22
+7e2399c7-de58-407a-944d-652851a0c1b7|Financeiro|25|Masculino|Problemas circulatórios por sedentarismo|63|F30.8|2024-08-18
+9747b7ff-6651-404f-8feb-9131d3fdebe1|TI|31|Masculino|Problemas lombares|18|M20.5|2023-06-30
+4b44ba89-731d-433d-8cfb-b98191e14777|RH|24|Feminino|Enxaqueca relacionada a iluminação inadequada|18|G26.4|2024-09-07
+973a5035-cab0-4012-aefb-ec734861c3f1|TI|40|Feminino|Alergia a poeira ou ácaros no ambiente|43|T48.1|2025-04-26
+16c3ad50-0a7f-4dd5-9714-f91af3d7031b|Comercial|39|Outro|Síndrome do túnel do carpo|98|R62.8|2024-08-19
+d9ecadb2-a44e-44d6-af22-3155539e5c6a|Logística|44|Feminino|Acidentes com quedas internas|82|F55.8|2023-08-29
+3b2c40f7-c450-4894-a5bb-c4bb23f36f1a|Operações|26|Masculino|Distúrbios alimentares em razão da jornada|93|M18.7|2024-10-13
+655efd46-9015-4e70-b6c5-85f28425f8d5|RH|51|Outro|Problemas lombares|11|R32.1|2024-02-03
+a8507d72-b96d-40a9-94cf-413a83ba81af|Comercial|40|Feminino|Problemas de visão (uso prolongado de telas)|71|M50.2|2024-05-25
+ae06b423-788b-4461-9454-ef34a6ccc99b|Marketing|37|Outro|Problemas de visão (uso prolongado de telas)|81|T59.6|2024-06-20
+3b75b028-794d-4bab-b9ee-f147661e23cd|TI|51|Outro|Cervicalgia (dores no pescoço)|65|R23.8|2023-09-12
+598bd3ec-13b3-4b12-9c03-e4392094eb3c|Marketing|56|Outro|Distúrbios de sono por carga de trabalho|74|G96.3|2023-06-20
+4430bfb6-ac2f-4261-98cd-ae5e4660d624|Atendimento|26|Feminino|Problemas de visão (uso prolongado de telas)|16|G16.4|2025-02-19
+8228cd94-5d12-418f-8cb4-517536e19b50|RH|47|Outro|Depressão|109|T67.2|2025-02-24
+4d84e717-d7ad-4abf-8bbb-302727a8c29e|Atendimento|24|Masculino|Problemas de visão (uso prolongado de telas)|63|M88.1|2024-07-09
+c8df4dad-53b3-49cc-b44f-daf5830af67b|Comercial|56|Feminino|Cervicalgia (dores no pescoço)|9|G34.7|2025-03-05
+05b695c3-f1e1-47d1-8883-2150d6817aec|Jurídico|45|Outro|Tendinite|35|G95.6|2025-04-12
+52cc45f4-9974-4884-b81c-058b5eaa4416|Atendimento|24|Feminino|Tendinite|80|M15.6|2024-01-14
+e447bd83-6f55-4947-bea8-5e5813653bf7|Administrativo|44|Feminino|Distúrbios alimentares em razão da jornada|18|R57.8|2023-08-30
+a7d74133-a0a4-400f-945a-1983ddf66ebf|TI|49|Masculino|Síndrome do túnel do carpo|49|F44.0|2024-11-12
+8b5b24d2-f140-4faf-8c74-5d0e7c956fcb|RH|30|Outro|Ansiedade relacionada ao trabalho|34|R50.4|2024-10-03
+f53bcb53-fd29-4893-9acd-854a19e5e624|Comercial|46|Outro|Tendinite|90|G94.2|2024-04-20
+d7035d33-884c-4700-9648-a844f2d51a3c|Administrativo|32|Feminino|Tendinite|8|R91.6|2024-07-15
+8267311e-4d0b-44fa-9dfd-0d63a5b777c1|Atendimento|25|Masculino|Problemas de visão (uso prolongado de telas)|9|M53.4|2024-01-20
+4b573c9e-381a-4738-a16f-1c195c73e809|Atendimento|47|Feminino|Cervicalgia (dores no pescoço)|40|T58.9|2024-06-06
+b8f52e14-c9f7-41dd-809e-591d8735d0fd|Logística|50|Masculino|Problemas respiratórios por ar condicionado|39|M90.4|2023-07-24
+86a9b8ab-07dc-4fac-8db1-64a9cdf30d31|Jurídico|50|Masculino|Problemas de visão (uso prolongado de telas)|67|M54.9|2024-10-29
+4ced525b-a268-4bc1-b909-0c634d0e0a54|Logística|49|Feminino|Tendinite|115|F30.0|2025-02-13
+4ce3077b-38ae-4fd7-9eef-e000e3cecc36|Marketing|31|Masculino|Cervicalgia (dores no pescoço)|81|R32.8|2025-01-31
+16e2a3f7-d33b-498c-ae8b-02e1e82ea750|Marketing|28|Feminino|Acidentes com quedas internas|61|T50.0|2023-12-04
+b9e4a3f7-9819-4412-b090-a6caef41f142|Marketing|22|Feminino|Tendinite|19|T17.0|2024-11-20
+b2cdbf22-e958-47e0-a226-97894e411976|Administrativo|59|Outro|Crise hipertensiva induzida por estresse|105|M13.7|2023-10-25
+a5f7f771-a623-42f0-813c-a4b24ba07075|TI|29|Masculino|Síndrome do túnel do carpo|58|F28.4|2023-09-05
+9ff7552d-0116-43ad-accb-28ff89f86a93|Operações|48|Feminino|Problemas de visão (uso prolongado de telas)|52|G43.5|2023-11-22
+fe3f58dc-dc64-4e37-993b-24333f42dbd1|Administrativo|28|Outro|Cervicalgia (dores no pescoço)|47|R79.6|2023-08-13
+bcf0cc52-e457-4223-a0ed-10c107fcc406|Marketing|58|Masculino|Cervicalgia (dores no pescoço)|82|R42.3|2024-03-08
+f786bd45-268f-4252-82fa-395666a0c6af|Operações|52|Feminino|Fadiga crônica|107|T74.2|2024-04-25
+e3be22ba-99eb-4753-90d1-ee25f988bdff|Administrativo|36|Feminino|Problemas circulatórios por sedentarismo|101|T83.3|2023-11-21
+5e765937-43eb-4458-a63e-8d9ac4f48e0f|TI|62|Feminino|Choque elétrico por equipamentos mal conservados|87|R57.1|2023-05-21
+4d63a522-458b-4f72-a9e0-b3b0c3c2b5a2|Atendimento|37|Feminino|Problemas circulatórios por sedentarismo|101|G68.9|2023-12-07
+6fbd102b-0dd1-4c12-905a-d4c28d42a49b|RH|58|Outro|Choque elétrico por equipamentos mal conservados|21|F42.3|2024-04-02
+cf7459c8-3a87-4134-9a9a-0a5bfa84cf10|Operações|38|Masculino|Problemas circulatórios por sedentarismo|60|M37.8|2024-11-14
+b47c5b38-eb25-483f-a2ef-77348fbed578|TI|30|Outro|LER/DORT (Lesão por Esforço Repetitivo)|117|T12.0|2025-01-03
+ccb89b77-0d39-44b0-b03a-2ff797768aa9|TI|60|Masculino|Distúrbios de sono por carga de trabalho|20|R14.4|2024-10-25
+da37b003-15e5-4f6f-8cf7-08095047c7fb|Operações|26|Masculino|Fadiga crônica|21|M12.9|2024-12-06
+b09bbf1a-69d5-46d6-b8b6-fccc6ac00a59|Comercial|35|Feminino|Problemas lombares|6|G14.1|2024-12-07
+b555c36d-7584-48bd-81e4-eb345a827ef4|Jurídico|30|Outro|Síndrome de Burnout|106|T10.6|2024-10-22
+dab5baa8-8042-4ce1-8dd9-29268fac5bc9|Comercial|42|Feminino|Enxaqueca relacionada a iluminação inadequada|51|T21.9|2023-07-22
+7120430a-fb3e-4a65-ba30-ae1c401233ff|Financeiro|28|Outro|Problemas circulatórios por sedentarismo|110|R99.2|2024-12-21
+c86785b5-0f88-467f-8335-e5cfc5fdcd3a|RH|43|Outro|Alergia a poeira ou ácaros no ambiente|79|G90.6|2024-04-25
+2a78bd9c-fe97-42a8-84c4-ba28372412ad|Marketing|45|Masculino|Tendinite|24|G87.3|2023-08-17
+495456ac-1117-4c59-9175-b0a5d0af4a06|Operações|56|Feminino|Crise hipertensiva induzida por estresse|64|M72.0|2024-10-20
+b4a063fd-631f-4122-b3b0-467f6ec38cb6|Operações|41|Masculino|Estresse ocupacional|46|G16.7|2023-08-03
+a6a61b34-b73f-4ed9-af83-c1d531965552|Logística|53|Outro|Estresse ocupacional|109|M70.9|2024-10-03
+25ec6e09-63eb-4190-869e-7a00da1ae1b5|Comercial|50|Outro|Fadiga crônica|113|F34.1|2023-12-03
+ff87deb9-9eb9-40d8-ab42-385819ca8c96|TI|50|Outro|Problemas de visão (uso prolongado de telas)|107|R83.2|2024-11-08
+811a4663-86eb-4e16-8c8d-87f2bb151f95|Operações|43|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|22|R16.4|2024-05-27
+aec589b9-208c-4c8a-be01-6fdf60989a00|TI|25|Feminino|Síndrome do túnel do carpo|113|R75.5|2023-08-11
+28f3a4f0-3214-4f9c-83f0-d4a78d2868b8|RH|58|Masculino|Fadiga crônica|107|G41.6|2024-09-30
+00133109-7930-476d-b119-e9ea265138da|Jurídico|40|Masculino|Distúrbios de sono por carga de trabalho|8|F61.4|2024-01-08
+1148dd22-438e-46e9-871b-7b108fbdc2ec|Operações|61|Masculino|Síndrome do túnel do carpo|29|G43.1|2024-12-06
+97de09c3-1b5b-4b78-86ad-155456c30047|Jurídico|61|Masculino|Problemas de visão (uso prolongado de telas)|52|R76.3|2025-03-20
+c2c54ddb-8e80-4f9d-a68f-a5ac937c9e15|Comercial|39|Feminino|Problemas lombares|22|G35.9|2024-04-16
+7fd75602-c4f5-4bec-8259-6c674e0e3bb5|Logística|39|Feminino|Ansiedade relacionada ao trabalho|71|M15.4|2025-02-22
+8cb8d36b-72d7-4a77-b2de-f61d9176407a|Marketing|57|Feminino|Depressão|49|M79.3|2024-01-15
+c2720640-420f-4779-bc90-c1940b3d9794|Administrativo|29|Masculino|Síndrome do túnel do carpo|51|F38.4|2025-04-04
+6acabcaa-f6bc-493a-aeff-f78a3c7ee491|Administrativo|55|Feminino|Tendinite|91|F58.5|2023-10-21
+092ea46b-a57e-4170-b0d4-12ec1af1ed4b|Atendimento|22|Feminino|Problemas de visão (uso prolongado de telas)|70|G34.1|2024-01-06
+03188719-cb26-4bc2-b108-5f84c4dcd6be|TI|36|Outro|Cervicalgia (dores no pescoço)|17|M31.6|2024-01-19
+cf312fcc-216a-4255-bad5-6c9304f923f5|TI|61|Feminino|Problemas respiratórios por ar condicionado|101|M47.5|2024-01-23
+fb2100d1-e44a-42a8-ba7b-565cf3982625|Financeiro|49|Masculino|Enxaqueca relacionada a iluminação inadequada|105|M25.9|2024-02-25
+7a2662fe-807a-4922-91e9-36760f3c0616|Atendimento|48|Masculino|Problemas lombares|62|R23.3|2023-06-25
+1604bc97-1b43-492d-90e5-31acf68fbcc2|Comercial|28|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|115|T32.9|2024-06-15
+b316a43b-5843-49fb-ba02-eb5871f2fea1|Jurídico|30|Masculino|Problemas lombares|25|G18.1|2023-12-02
+c897c922-feca-4f5d-9cd4-99b2b4cddf06|Jurídico|31|Masculino|Depressão|110|T59.0|2024-05-25
+e030772d-4619-4ee6-853a-9cda041a9789|Comercial|49|Outro|Crise hipertensiva induzida por estresse|46|G82.6|2025-04-28
+94762bef-78c8-46a2-bb38-c43e4972ea8c|Marketing|40|Feminino|Problemas respiratórios por ar condicionado|66|M54.5|2024-10-13
+7b5ab2a0-c22e-46a3-a959-3dee05302d6c|Administrativo|57|Outro|Estresse ocupacional|96|F35.9|2024-12-20
+fa768237-aaba-4da8-b591-49b2ca9a7fc5|Atendimento|40|Outro|Enxaqueca relacionada a iluminação inadequada|103|T31.8|2024-10-27
+6030e9c0-a4ad-44aa-9f2b-22d630f9467c|RH|53|Outro|Problemas de visão (uso prolongado de telas)|113|T63.5|2024-04-14
+38992385-d13a-4429-92c4-7605e490003a|Administrativo|58|Outro|Problemas lombares|30|R86.1|2023-10-09
+3df47d9f-fca9-4bb8-9747-b68b548488ef|Financeiro|40|Masculino|Distúrbios de sono por carga de trabalho|24|T50.7|2024-01-03
+6bcfa503-f51d-4968-8eac-84b6394a9822|Operações|61|Masculino|Cervicalgia (dores no pescoço)|76|M97.2|2024-04-12
+7da0fd82-cb95-45d7-890c-f238e1f79503|Operações|22|Masculino|Problemas respiratórios por ar condicionado|85|M38.2|2024-07-05
+e1a29589-cc4e-4245-a6dd-1e0a1a5ad55d|Administrativo|35|Masculino|Fadiga crônica|22|G22.5|2024-12-25
+20240e73-d136-4fba-b529-46d70c60cc18|Comercial|60|Masculino|Problemas circulatórios por sedentarismo|105|M49.4|2024-05-06
+9f0fff90-2aa8-4fe2-9183-32768884071f|Operações|60|Masculino|Problemas lombares|14|R13.3|2024-03-11
+3e2ea802-d12c-4532-b1b0-d62d831b294a|TI|53|Outro|Problemas circulatórios por sedentarismo|38|M50.4|2024-04-04
+b9d306a0-ef62-4c7c-ba12-f19a1f296521|Logística|51|Masculino|Depressão|35|M92.7|2024-02-21
+c1bcc5ab-99d0-4a44-b296-8df9f3ba1af0|Atendimento|45|Masculino|Problemas respiratórios por ar condicionado|49|R95.5|2024-08-18
+b2a90041-e216-4f78-a32e-dcfe6f1cff83|Financeiro|50|Masculino|Problemas lombares|92|G19.3|2024-08-27
+166e4f49-20c7-4c8f-bdb2-6e15e540aaf2|Financeiro|31|Feminino|Tendinite|109|R67.9|2024-08-20
+9b0dbfd2-45b0-4160-9220-9701d659f369|Operações|47|Masculino|Tendinite|90|M62.3|2023-08-13
+2b2ab726-64cb-47ca-b9be-42cac102d347|TI|26|Masculino|Choque elétrico por equipamentos mal conservados|7|T96.6|2023-06-28
+1f6236da-7d79-414d-b246-a68c4309e045|Marketing|30|Outro|Crise hipertensiva induzida por estresse|24|T18.8|2024-12-04
+35b6ff54-aeee-4c2c-81e9-f09726240b68|TI|33|Masculino|Depressão|9|M24.6|2024-07-14
+bbf9c37e-01f3-4f7b-8a2f-204f44289262|Jurídico|48|Feminino|Enxaqueca relacionada a iluminação inadequada|63|M96.2|2023-12-25
+ee60d1b8-e7e3-42cc-a111-7d2ebc84ff1c|Financeiro|33|Masculino|Choque elétrico por equipamentos mal conservados|67|M55.2|2024-01-28
+a881a479-7a01-412b-8cfe-d1f9e72598f3|Operações|41|Feminino|Acidentes com quedas internas|56|F83.5|2023-06-27
+3599b120-4f04-4849-8c29-9ff51153272f|Administrativo|22|Feminino|Alergia a poeira ou ácaros no ambiente|66|T51.8|2025-03-03
+caa67bf0-59d9-41e4-b147-bef3b46c31c7|RH|61|Masculino|Distúrbios de sono por carga de trabalho|102|M24.5|2024-12-11
+22cb3d32-83ac-43d4-a07d-5997aef9c190|Administrativo|53|Masculino|Problemas respiratórios por ar condicionado|10|F54.0|2024-07-18
+5f4b7884-8534-42a8-8341-ebf0d652f1e0|Financeiro|37|Feminino|Problemas lombares|85|F11.1|2023-12-03
+0b13c408-9683-47c2-b26e-cd6eeb7a4b35|Operações|24|Masculino|Tendinite|78|G77.7|2023-10-25
+e4be4145-1591-407b-ab0e-8fc8dca5ffc5|RH|60|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|43|T90.0|2025-03-24
+1f4f9ad2-e8e9-414d-880c-4fe304f3d3c8|Atendimento|25|Masculino|Distúrbios alimentares em razão da jornada|12|G50.3|2024-11-15
+152c40f6-b62d-4004-9622-ff9085b40c77|Comercial|26|Masculino|Crise hipertensiva induzida por estresse|72|M21.4|2024-09-05
+7e2d8f5b-2dfa-4421-a87d-26096cd047fc|TI|35|Outro|Distúrbios de sono por carga de trabalho|12|M51.3|2024-03-05
+d530d58e-1208-4f0d-ac56-d8a2c7ce21e2|Comercial|43|Outro|Problemas lombares|71|T85.3|2023-07-12
+7f4e2536-7ac7-40bb-891c-3cddf2a8f490|Operações|37|Feminino|Distúrbios alimentares em razão da jornada|31|T58.8|2025-03-28
+5ab5b1a7-4b5a-4235-9cfd-3aecb3d0d41a|Operações|45|Outro|Síndrome de Burnout|19|F54.8|2024-01-21
+e87fbb7b-866e-4e35-9a1b-6b116658cefe|Atendimento|59|Outro|Ansiedade relacionada ao trabalho|120|R65.9|2024-06-10
+ecef45cd-e28e-45f0-89f3-21d5a931f69d|RH|52|Feminino|Fadiga crônica|36|T40.5|2025-01-03
+24d8baec-d331-4e0f-a36b-f6b46068367c|Administrativo|32|Masculino|Choque elétrico por equipamentos mal conservados|13|R97.0|2025-03-31
+3fceab24-8cff-4d95-b003-1674d3ccace7|RH|53|Outro|Ansiedade relacionada ao trabalho|6|M16.5|2025-01-29
+cf5e3794-b221-4ff8-8965-d7e5ecb94190|Logística|59|Feminino|Crise hipertensiva induzida por estresse|82|T23.8|2023-12-13
+f53d2baf-2124-42b2-a369-abb7475eccf7|Atendimento|23|Feminino|Problemas de visão (uso prolongado de telas)|112|M84.6|2024-06-29
+d272dcac-b960-4d23-b50e-062ce49fb3bb|TI|62|Feminino|Distúrbios alimentares em razão da jornada|106|M23.6|2024-07-17
+7de222fa-84cd-4821-a60e-d975d6c402ba|Jurídico|50|Outro|Síndrome de Burnout|11|R43.3|2024-10-30
+e7524f14-655b-4cb2-808c-2e66e000ae8d|Operações|47|Outro|LER/DORT (Lesão por Esforço Repetitivo)|15|G26.4|2025-04-02
+59414374-5af6-4ac9-90c0-5285953b0e8f|Operações|41|Masculino|Fadiga crônica|32|T80.1|2024-07-18
+20cf5da9-3ac4-466b-8813-375140caee5e|Atendimento|60|Feminino|Problemas lombares|93|G48.6|2024-11-23
+9bf3d6f7-8f17-4189-9c89-c241560d20b8|Logística|30|Masculino|Ansiedade relacionada ao trabalho|24|F17.7|2023-10-02
+c9811390-fe78-4fd3-b97a-56a736099686|Marketing|31|Feminino|Problemas lombares|17|R89.4|2024-05-29
+327eb6b4-0121-4911-8ede-7cc405ede569|Jurídico|34|Masculino|Acidentes com quedas internas|39|T75.3|2025-03-28
+df6fff5c-5829-474b-b0e4-158dce155e0a|Financeiro|49|Masculino|Depressão|77|R10.3|2024-12-29
+1d2549d2-9f73-4600-9bc5-1309f926eb2e|Atendimento|56|Outro|Problemas lombares|12|T54.3|2025-01-20
+599309e2-3b2c-4174-a3d2-3483b8c88016|Marketing|49|Outro|Tendinite|101|G80.8|2024-02-27
+ca1b12e7-1eb8-4f37-8bc5-d6580cf8fee1|Marketing|61|Feminino|Depressão|23|G46.7|2024-11-03
+b1521465-0ebf-47a0-9815-104552cbec58|Logística|30|Masculino|Fadiga crônica|102|G67.9|2025-03-06
+78c4cadd-f9de-4da4-9945-a76a0e2a1e5f|Operações|55|Feminino|Enxaqueca relacionada a iluminação inadequada|71|M20.3|2024-11-18
+f54612b4-bec6-4abf-9467-d1d89365a5b5|Jurídico|52|Outro|Depressão|94|F51.5|2024-03-14
+fad32125-b674-42f8-9790-109f1261c988|Operações|57|Masculino|Distúrbios alimentares em razão da jornada|86|M94.5|2025-03-03
+38b83fab-692a-421b-9d96-9ccee1a7054d|Comercial|48|Feminino|Fadiga crônica|79|M24.1|2024-08-07
+9384faeb-5789-4ef8-b7b0-9e64070dc691|Comercial|44|Outro|Distúrbios de sono por carga de trabalho|29|F60.8|2024-04-18
+83c84b73-e4c9-46ad-909b-a1249d6898b2|Administrativo|43|Masculino|Ansiedade relacionada ao trabalho|28|G88.8|2024-06-11
+a93a6091-c012-4725-b2bf-e87abe4688ae|Atendimento|27|Outro|Distúrbios alimentares em razão da jornada|54|R45.3|2024-11-13
+3e9914d9-ee9a-4442-8e39-f6b32797edd7|Logística|57|Feminino|Cervicalgia (dores no pescoço)|65|G80.5|2023-05-23
+fe36ad08-ce34-4065-8e3f-5eae5058fac0|Comercial|35|Masculino|Problemas lombares|44|G64.7|2023-09-26
+a3ff54db-73f7-4b61-af8b-e865d6835205|Administrativo|32|Masculino|Problemas circulatórios por sedentarismo|69|M37.2|2024-02-05
+a513c374-7591-463e-b16a-88e1c4dcbd1c|Comercial|61|Masculino|Problemas circulatórios por sedentarismo|85|T61.5|2024-04-04
+d2026d95-a3d6-4b63-8a0e-29caad35c183|Jurídico|40|Masculino|Problemas circulatórios por sedentarismo|71|M69.2|2024-12-30
+e391cd60-11a2-4d80-97ff-8f75c145abbf|Comercial|42|Masculino|Problemas lombares|57|R89.4|2025-03-23
+db84d0f4-29ca-4437-813a-d95c1b7b6803|Administrativo|47|Feminino|Cervicalgia (dores no pescoço)|105|F50.2|2023-07-25
+3fb1557d-6dae-4de4-aa3e-bdce908cc807|Logística|23|Feminino|Depressão|120|M21.2|2024-03-23
+2f0efa6f-cf2f-441c-9e46-3338ae8bb279|Logística|34|Outro|LER/DORT (Lesão por Esforço Repetitivo)|64|R97.6|2024-04-26
+f1423699-ee17-41a7-9fe9-288f5dcb646f|Administrativo|38|Feminino|Fadiga crônica|7|M91.3|2024-01-04
+b9a81a54-880f-4189-8fd2-32bd471c46b1|Financeiro|38|Outro|Distúrbios alimentares em razão da jornada|19|F71.1|2025-03-31
+7aaef911-9755-45ca-98e1-6c0e291d7262|Atendimento|46|Masculino|Problemas lombares|12|F44.0|2024-08-11
+de73a549-8677-48c2-b7f7-9422db192569|Marketing|34|Feminino|Problemas respiratórios por ar condicionado|96|R96.0|2025-05-13
+6d5d81f1-ef74-4361-9910-30ca38546698|Logística|27|Masculino|Tendinite|5|M25.2|2024-06-18
+c7b0c4d9-34eb-4f0c-8a8c-75cd005f7ab8|Financeiro|23|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|23|F67.6|2023-07-08
+853d89e5-721f-41f5-b37a-a166cead14d5|Marketing|59|Feminino|Depressão|60|M27.3|2024-08-28
+d57242e4-120e-464f-8639-ae0b224597d1|Marketing|59|Masculino|Problemas lombares|73|R95.1|2023-09-07
+31944714-3bbb-4cca-99ab-ee72e232e4df|Comercial|24|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|63|T69.9|2024-08-26
+cb3cba6e-8bfd-4bf3-8c52-1702e06672f4|Financeiro|47|Feminino|Distúrbios de sono por carga de trabalho|95|G18.1|2024-02-14
+34309b9d-7452-4430-b628-318684e2ca2b|Marketing|40|Outro|Síndrome do túnel do carpo|42|T69.2|2025-02-28
+e315fd56-b68e-47c1-9cab-5bfc61e7c03d|RH|46|Feminino|Alergia a poeira ou ácaros no ambiente|34|G19.8|2024-03-15
+53ff82a8-c620-4ed2-a34e-4677d7fd2f27|Marketing|33|Feminino|Problemas lombares|41|G24.1|2023-05-30
+6178666e-e8f8-4ae7-a903-128c1ba194b3|Comercial|61|Feminino|Problemas lombares|9|M69.0|2024-02-19
+9c75fc92-480f-4419-b01e-202e157426f9|Atendimento|35|Outro|Tendinite|95|G78.1|2024-10-21
+a38b93c2-28de-4c62-a362-38bf004471ad|Marketing|50|Masculino|Síndrome do túnel do carpo|9|M81.3|2023-12-08
+1e3884c3-b10c-433b-b6aa-4c25f2c2499e|Financeiro|42|Masculino|Distúrbios alimentares em razão da jornada|99|T70.1|2025-04-30
+7ccfd665-1037-42b3-8920-5fb8c19576a0|TI|28|Masculino|Problemas de visão (uso prolongado de telas)|15|T51.6|2024-03-28
+b0244e8a-9069-4e2a-b679-2d795ddf5ef1|Financeiro|49|Outro|Problemas respiratórios por ar condicionado|47|M72.4|2025-04-10
+2655560b-ae1c-46cb-85b7-550b4963082b|Marketing|39|Outro|Síndrome de Burnout|61|F38.9|2023-12-17
+f024f8e6-033a-499e-aa79-5fa7dd8c9a39|Financeiro|56|Outro|Fadiga crônica|99|R63.8|2024-10-30
+992c133d-4ba3-4c96-9bdc-d41ad880eb90|Comercial|34|Feminino|Choque elétrico por equipamentos mal conservados|21|T78.8|2024-08-21
+89c8f7e1-f1a6-4bd1-809a-cc41cc8936b7|Atendimento|60|Feminino|Ansiedade relacionada ao trabalho|88|M31.7|2023-07-03
+116d5fa8-33b9-4b6f-994a-b23de3b50e58|Financeiro|30|Outro|Ansiedade relacionada ao trabalho|57|G72.0|2024-06-11
+4a8a9718-a4e8-4406-9985-c897c1b20fdb|Operações|47|Outro|Problemas circulatórios por sedentarismo|49|R82.7|2024-11-27
+c56f65eb-de6f-41cc-a298-b736feee7540|Comercial|38|Masculino|Cervicalgia (dores no pescoço)|21|F61.9|2024-11-08
+50e2cc00-2e65-4e05-af70-b57d1c1986ac|Operações|60|Outro|Estresse ocupacional|98|R35.6|2023-07-08
+c378bb3a-c973-448d-8d05-102ea7332096|Jurídico|51|Feminino|Alergia a poeira ou ácaros no ambiente|103|F29.5|2023-07-31
+2520916f-4cbe-4c55-b3be-06e8f6653b0f|Administrativo|36|Outro|Problemas circulatórios por sedentarismo|21|M67.9|2023-09-16
+938ebb32-1226-4039-bace-c7734813f311|Jurídico|49|Feminino|Alergia a poeira ou ácaros no ambiente|18|R19.3|2024-09-12
+4f98477a-3538-444e-ae1d-6b4d1d035e76|Administrativo|44|Outro|Choque elétrico por equipamentos mal conservados|81|F50.4|2023-05-25
+b770a5e7-b941-4b45-8497-a06b0d427f1a|RH|48|Masculino|Alergia a poeira ou ácaros no ambiente|70|F11.4|2024-04-12
+a9d6049e-2455-45e8-baa7-2339d9b63a0d|Logística|38|Masculino|Choque elétrico por equipamentos mal conservados|114|R59.6|2023-10-07
+eca3a516-751a-4947-aec1-d3a7ba4f37e9|Jurídico|59|Masculino|Síndrome de Burnout|40|G44.3|2025-03-12
+93dcd520-d11c-4f95-8cc5-fc270db2e422|Logística|53|Feminino|Síndrome do túnel do carpo|89|R99.6|2025-04-28
+1a3e4280-ae6f-4f95-b736-599dd4dac4e4|Logística|38|Outro|Enxaqueca relacionada a iluminação inadequada|11|F48.6|2023-10-06
+73537e77-3b9d-4d8c-8dab-ba87a88d808e|TI|60|Outro|Cervicalgia (dores no pescoço)|99|F60.3|2023-12-09
+30c4b77b-aba6-49b9-a510-37e0f23a52b3|Jurídico|49|Feminino|Choque elétrico por equipamentos mal conservados|97|R57.8|2024-08-16
+7543fb09-6697-4523-b842-f7896fb8e3f4|Financeiro|59|Outro|Alergia a poeira ou ácaros no ambiente|23|T49.2|2023-09-06
+6fc90772-31a9-4105-ac2d-aceefe604c74|Atendimento|52|Outro|Problemas de visão (uso prolongado de telas)|119|F32.0|2025-04-21
+95e44646-0d1a-4134-8949-19b415920ca8|Comercial|33|Feminino|Choque elétrico por equipamentos mal conservados|49|M39.5|2024-02-03
+aacdad63-fb15-4864-afee-5bf43aa1e854|Financeiro|32|Outro|Problemas lombares|80|M53.4|2023-11-02
+d6d7fe55-65b6-4e11-ba1f-5a6e635b6fc8|TI|40|Outro|Choque elétrico por equipamentos mal conservados|65|T56.4|2023-12-02
+7b31c937-7860-4b1c-beff-f491d293febd|TI|54|Feminino|Problemas de visão (uso prolongado de telas)|80|R11.3|2023-06-12
+0d403db8-1371-4b65-9358-2593b4e76295|Atendimento|24|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|35|M89.7|2023-07-01
+8ccec284-6720-4092-8392-2fbc3b7ae9d4|RH|44|Outro|Depressão|86|T55.2|2023-06-21
+e1998ed0-11d7-4e75-b5cd-c38be316c683|Atendimento|48|Feminino|Alergia a poeira ou ácaros no ambiente|12|T73.4|2024-05-03
+c43dd9eb-4b28-4e3c-bd11-334f6aa10936|Atendimento|62|Outro|Problemas de visão (uso prolongado de telas)|79|M87.7|2024-09-30
+bd651fe0-b1a7-4d47-a4d5-d9f4be95c335|Marketing|62|Feminino|Acidentes com quedas internas|27|T94.1|2024-08-11
+d8881d06-f0a7-4acd-867a-139c8ed01ff9|Logística|29|Masculino|Distúrbios alimentares em razão da jornada|11|R12.5|2024-08-03
+ae3b913f-07e4-4d33-ba08-d381829ea46c|Marketing|57|Outro|Problemas de visão (uso prolongado de telas)|119|T51.9|2023-08-06
+df4c2fae-9b9d-420e-b624-bc051153ff6f|RH|30|Masculino|Problemas lombares|118|T97.1|2024-11-20
+c63b74f7-5268-4cf2-bea7-579c3733b983|Comercial|29|Feminino|Crise hipertensiva induzida por estresse|16|G63.1|2025-05-09
+7b859c22-cdc6-46b0-a84e-cd360b3193ac|Atendimento|25|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|118|T28.9|2024-08-21
+6e294179-a17e-4b45-a06a-520239c2ddba|Administrativo|45|Feminino|Enxaqueca relacionada a iluminação inadequada|9|F67.0|2024-12-27
+36a8ba9a-3a24-4431-9384-12ee00d0b185|TI|36|Feminino|Fadiga crônica|21|M19.5|2024-12-26
+cb9947fe-df00-410d-9078-230107ff0e35|Financeiro|56|Feminino|Problemas respiratórios por ar condicionado|12|G42.9|2023-06-08
+510d7bf2-dd99-4364-a1ad-ea75c1b23eee|Operações|28|Masculino|Problemas lombares|102|F52.9|2025-01-05
+69f767cd-2928-42f7-bc1a-28ad2a03936f|Logística|34|Feminino|Choque elétrico por equipamentos mal conservados|78|G48.5|2024-01-21
+06259c98-77f3-4061-8a80-9cf809ff35ec|Marketing|33|Feminino|Ansiedade relacionada ao trabalho|78|T60.4|2024-06-25
+bf156bfc-a4a3-46c9-a27e-83c7bccd27af|Administrativo|36|Feminino|Problemas lombares|44|R81.9|2024-06-29
+b545367e-9ed8-4319-bcc0-92d360c566de|Logística|33|Masculino|Distúrbios de sono por carga de trabalho|31|G46.1|2024-01-28
+98043a25-500b-477b-aa2a-50fac6d1b7fd|Financeiro|30|Outro|Estresse ocupacional|46|F37.0|2024-12-07
+c070183b-766d-4120-9a7e-69679efd3824|Comercial|62|Feminino|Problemas lombares|46|F78.7|2024-11-23
+9040ca3b-c7ee-49d7-b281-8d00e1035584|RH|51|Masculino|Problemas lombares|117|M83.1|2025-03-30
+bb3cb8f2-985b-4000-a49d-c5abfc0fb457|Administrativo|26|Feminino|Enxaqueca relacionada a iluminação inadequada|80|F65.9|2024-01-16
+08ea6d54-9e45-4441-afc4-cf938bd58bcd|Financeiro|40|Masculino|Estresse ocupacional|22|M47.7|2024-04-11
+ca46e1bc-2d0b-46e9-a42d-864e739e9661|Jurídico|28|Outro|Alergia a poeira ou ácaros no ambiente|94|T95.0|2024-12-13
+85fbd552-2e73-45a8-8fba-86d06dcb0fd1|Financeiro|32|Feminino|Estresse ocupacional|17|G15.8|2023-09-22
+ad7befe2-38f0-4284-9763-f0d8b1cfa2f9|Administrativo|51|Masculino|Estresse ocupacional|57|F18.7|2024-02-23
+492b30cf-f494-4129-806f-4a81f00eb263|Jurídico|34|Feminino|Problemas lombares|112|R80.0|2025-02-16
+198798d9-126e-4400-82a5-578b7a7ad85f|Marketing|34|Feminino|Depressão|59|T15.1|2024-09-15
+455d51f1-a009-4aac-8137-3a1215b41fff|Operações|30|Masculino|Síndrome do túnel do carpo|6|G41.4|2024-03-27
+348d9e0e-208f-4272-bc8a-0c91c6a6d7a7|Comercial|41|Masculino|Depressão|57|R41.5|2024-12-19
+26cd5e76-57f8-4ab5-b7f6-cb78c8365bda|Administrativo|51|Feminino|Problemas de visão (uso prolongado de telas)|7|F11.5|2024-10-29
+db9c83f6-f045-4ad1-a686-384235ebc1ad|Logística|38|Outro|Crise hipertensiva induzida por estresse|48|M78.3|2024-11-28
+cd526492-31d0-418b-bf85-c402b9e2724b|Financeiro|22|Outro|LER/DORT (Lesão por Esforço Repetitivo)|64|G98.5|2024-03-05
+74f73d18-6b6e-4b79-932e-81e75531f6fb|Financeiro|55|Outro|Problemas circulatórios por sedentarismo|35|F15.8|2023-10-18
+016f14e6-a6b5-4757-aa15-d213401a9f6c|RH|43|Outro|Choque elétrico por equipamentos mal conservados|41|F59.0|2023-08-12
+9ea83453-4c48-4ade-b146-5016481763a4|Atendimento|50|Masculino|Crise hipertensiva induzida por estresse|67|R57.3|2023-07-15
+96055766-1e1a-4a04-b460-49db0a03be7c|Comercial|50|Feminino|Síndrome de Burnout|22|F77.6|2024-08-31
+24c29fdb-ed20-4489-9038-c71b5cbb8a81|Marketing|32|Feminino|Problemas circulatórios por sedentarismo|89|R39.0|2024-11-14
+31b1c6d3-6a32-491f-a462-c53094e0d082|Administrativo|30|Outro|Problemas circulatórios por sedentarismo|69|F81.2|2024-05-10
+4e3f27c6-96cb-49c0-a8ea-5baeb67b7f82|Atendimento|42|Masculino|Fadiga crônica|81|F15.6|2023-09-16
+eade89d6-0b0f-422e-a30b-66490db89465|Logística|28|Feminino|Enxaqueca relacionada a iluminação inadequada|55|R15.7|2023-11-10
+5d8e9b53-eee6-48ed-8898-c1ae068d83ce|Administrativo|23|Masculino|Distúrbios alimentares em razão da jornada|59|F46.3|2024-10-30
+2daf988b-9e5f-44bb-924d-2db65f35b3d0|RH|37|Outro|Síndrome de Burnout|52|R19.9|2024-08-06
+3e9f5477-97a1-4cf4-9d35-d5ae76c70c78|Jurídico|55|Outro|Alergia a poeira ou ácaros no ambiente|63|T36.6|2024-09-13
+28e02911-03ee-43ac-9fc5-7e45ad54caec|Administrativo|56|Outro|Estresse ocupacional|19|R63.7|2023-10-25
+db2503e2-237d-4867-9c5e-121f7e8e2596|RH|31|Masculino|Crise hipertensiva induzida por estresse|10|T34.6|2023-12-07
+cda65a52-d62e-46a0-8684-576cd38823e2|Comercial|62|Outro|Alergia a poeira ou ácaros no ambiente|55|M61.9|2023-10-06
+941ff015-1711-4fc0-9097-bd2b2280e365|Jurídico|58|Outro|Enxaqueca relacionada a iluminação inadequada|24|G64.3|2025-02-23
+3aa1af4b-3842-4415-b01c-f549e5aebabe|TI|38|Outro|Fadiga crônica|60|F27.5|2024-11-14
+8f0540cc-1236-48c0-bb2a-1f1221c8de23|TI|41|Feminino|Fadiga crônica|119|R35.2|2024-09-23
+f12b8f9a-ef74-4584-a1fb-0aeda1aaea26|TI|34|Outro|Fadiga crônica|66|G10.5|2023-09-09
+f27a64b2-9a33-4434-89b1-06142f3abd88|RH|30|Feminino|Tendinite|60|T55.7|2025-03-30
+1480db87-5568-46d5-91c8-36f91525eec3|TI|49|Outro|Distúrbios de sono por carga de trabalho|118|G99.0|2023-06-12
+b91f89fc-9046-4e59-8cf1-bd1615c82df3|Logística|54|Feminino|Fadiga crônica|9|R53.9|2024-11-09
+5b410b57-e7f0-4dec-8f86-a3816f10d833|Jurídico|61|Masculino|Fadiga crônica|26|R45.0|2023-11-26
+46c178c4-14d5-4b1a-8c9a-0eed1cbbe720|Administrativo|57|Outro|Problemas lombares|47|T37.1|2024-09-26
+ad9c1d1c-b957-480c-beab-a8a6ba9c5dd4|Logística|40|Masculino|Crise hipertensiva induzida por estresse|120|T91.9|2025-03-18
+39e0a066-30da-4346-b8af-d503ea1ddf8a|Comercial|44|Feminino|Crise hipertensiva induzida por estresse|69|M21.3|2025-04-27
+c19529e2-9767-49b5-b439-617951dfcf55|Jurídico|57|Outro|Problemas de visão (uso prolongado de telas)|53|G19.2|2024-02-07
+86dc6605-7a8c-4ff4-a53a-14ec24219a44|Logística|59|Feminino|Síndrome de Burnout|67|M35.0|2023-11-02
+20dbae49-23f7-4e22-84f3-97f890845782|Operações|26|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|45|R15.6|2025-02-10
+1460d413-fbcf-4d25-ac08-09ca767866fa|Comercial|45|Outro|LER/DORT (Lesão por Esforço Repetitivo)|116|T72.1|2024-02-22
+04df4933-ff71-4c84-a2b1-efba7e4f8f9c|Comercial|55|Masculino|Tendinite|115|R49.0|2025-02-27
+06635f6e-ba96-4248-8e8f-8484c6da89cf|Financeiro|33|Masculino|Enxaqueca relacionada a iluminação inadequada|63|T63.3|2024-12-08
+716d2bc4-3d0b-4c34-b9a3-fae76f441c9f|Atendimento|51|Outro|Problemas circulatórios por sedentarismo|51|R98.3|2025-05-10
+af2ee5c5-64c8-49ee-a19d-88140a4b4f8d|Administrativo|33|Outro|Ansiedade relacionada ao trabalho|23|F43.2|2024-12-18
+a4b7edd4-20a8-4a38-aba8-fa50ae94f715|Operações|40|Feminino|Enxaqueca relacionada a iluminação inadequada|14|R25.8|2023-07-27
+3b3261da-beb8-4a77-97b9-05a4032936e5|TI|40|Outro|Tendinite|68|F77.6|2025-05-07
+49a52202-d4dd-45ca-931d-55e4fd1742b5|TI|32|Feminino|Tendinite|39|M47.8|2024-08-27
+cfd5bdde-b6c7-4f90-a65d-411913326fa0|TI|50|Outro|Acidentes com quedas internas|95|G13.9|2023-12-20
+b8b6ca78-7768-4674-bf81-46fe871d5fd8|Financeiro|26|Masculino|Síndrome de Burnout|61|R50.3|2024-12-22
+869b071d-539e-4eee-8560-3287d6e0bb7b|Logística|47|Feminino|Síndrome do túnel do carpo|79|M63.5|2024-06-26
+c2b3e3de-ed8a-4250-ac68-60370ad0af34|Jurídico|44|Outro|Distúrbios de sono por carga de trabalho|30|F48.7|2025-01-06
+a35c7f1d-e154-42fe-aba3-de24b706e79e|Atendimento|50|Masculino|Problemas circulatórios por sedentarismo|65|M75.0|2024-08-03
+60962650-442f-4cbe-90b0-243156d08c4b|Atendimento|28|Outro|LER/DORT (Lesão por Esforço Repetitivo)|93|F64.5|2024-03-01
+d2687ccb-ed47-4fbf-8cc9-897210bd8673|Jurídico|30|Masculino|Enxaqueca relacionada a iluminação inadequada|56|R15.9|2025-03-17
+876288b7-9f32-4068-8f80-6fcff19ae356|Logística|39|Outro|Distúrbios alimentares em razão da jornada|29|R23.6|2024-04-27
+227c9e9f-49eb-4502-b87a-f2d81fccedd6|Operações|39|Outro|Problemas circulatórios por sedentarismo|111|T27.6|2023-05-30
+3d190210-4f1b-48c8-a7d5-abc1f7101d0b|Marketing|57|Masculino|Problemas lombares|66|R91.6|2024-10-21
+d0e05bcd-3031-4d24-ab95-009920c88014|Administrativo|32|Masculino|Problemas circulatórios por sedentarismo|80|R75.3|2025-05-03
+4fcd4bbe-b94f-420b-848e-188d8c4db8b7|Operações|48|Outro|Ansiedade relacionada ao trabalho|66|R57.5|2023-12-19
+40210114-39e1-41f0-ad73-d8bb480c6039|Jurídico|42|Feminino|Tendinite|67|R97.7|2024-01-23
+cb855304-7bd3-45d1-be10-30006f040067|RH|25|Masculino|Crise hipertensiva induzida por estresse|31|R51.7|2024-10-27
+a4dd7361-2955-4c8f-b0f4-799df5f506de|TI|29|Feminino|Crise hipertensiva induzida por estresse|10|G45.4|2025-01-29
+221650b7-b112-43f0-a859-3d8baabf9bb1|Jurídico|32|Feminino|Fadiga crônica|102|R80.7|2024-04-16
+97868e54-0c93-48c8-85cf-bf08a4109147|Operações|42|Feminino|Problemas circulatórios por sedentarismo|9|M79.7|2024-11-06
+1d4f2aac-541a-4cb4-8d6b-d9425b13ddfa|TI|25|Outro|Alergia a poeira ou ácaros no ambiente|70|R50.7|2024-11-19
+c8cdbf87-cfe6-4a7c-88cc-c42c7194deec|Marketing|47|Masculino|Cervicalgia (dores no pescoço)|51|M94.3|2023-05-21
+a216e0af-07dd-470d-ba74-214d256a27e1|Marketing|53|Feminino|Problemas de visão (uso prolongado de telas)|55|T13.9|2025-01-30
+5cd32ddc-00aa-4a47-9081-a5c0343ff8dc|Jurídico|53|Masculino|Problemas de visão (uso prolongado de telas)|14|G50.5|2023-10-05
+2eac9a01-f232-43a4-981c-ebe63a47a1ce|Operações|47|Outro|Problemas de visão (uso prolongado de telas)|11|T18.7|2023-08-16
+559fb4fb-1d74-405f-ad30-bb1553f84089|TI|25|Feminino|Problemas de visão (uso prolongado de telas)|107|T97.4|2024-01-17
+0525754f-212c-4402-8a10-56911e4261fe|Comercial|46|Feminino|Distúrbios alimentares em razão da jornada|33|F27.4|2025-03-03
+4fdc973a-17ca-4b2f-a2a9-1d575ac733d6|Atendimento|22|Feminino|Tendinite|104|G41.9|2023-07-19
+2442af4a-9d04-4077-ba47-0525a42c242e|Atendimento|40|Feminino|Estresse ocupacional|71|G36.4|2024-03-04
+73530e55-bef3-48cb-b2c0-e9c7c83b61b4|Jurídico|25|Masculino|Problemas circulatórios por sedentarismo|76|G71.1|2023-05-30
+9ffb2a67-5430-493d-981b-c9b9a15776d6|Jurídico|27|Feminino|Problemas lombares|84|M31.8|2024-09-13
+55b66bd1-1e2f-4318-9520-f8faa1cd90ce|Logística|32|Outro|Tendinite|41|F60.8|2023-10-22
+83f28048-93f5-462b-bc54-19c06d027d70|Marketing|43|Feminino|Síndrome do túnel do carpo|94|R92.2|2025-03-15
+090dd2bc-e8f5-4ec4-a7f3-e76b2f1a2589|RH|30|Outro|Tendinite|67|R45.6|2023-07-06
+63f38023-44ea-422d-9d08-1d4ae5bbf455|Jurídico|29|Outro|Tendinite|76|T99.5|2023-08-09
+7b52070d-8cde-4229-8367-171a0d205c6f|Marketing|55|Outro|Tendinite|105|G80.2|2024-01-07
+6073a898-364c-4aa9-96f4-4f9fff69b8a2|Operações|34|Masculino|Problemas circulatórios por sedentarismo|107|R39.6|2024-08-16
+ce3e173c-f377-424e-a841-dd084997d56a|Comercial|35|Outro|Choque elétrico por equipamentos mal conservados|5|F32.3|2023-10-24
+623c46d5-5748-4478-be35-b9e88938a48d|TI|32|Outro|Problemas lombares|108|R77.9|2024-03-08
+c7438d1c-e7a7-4a31-86d4-17b44dfff912|Operações|29|Outro|Tendinite|114|R46.6|2023-12-23
+71a87dba-721d-419e-92e0-64a468921caf|TI|49|Masculino|Problemas lombares|53|R34.1|2025-05-01
+6ebd514d-78a8-4a3c-8fa7-ed35b348aede|Logística|28|Masculino|Síndrome de Burnout|120|R20.4|2024-09-24
+4ee1d780-e993-4e65-bc19-16e7237df1ae|RH|27|Masculino|Depressão|43|T48.1|2025-03-14
+1147a0f8-2252-4720-bd88-aefa1591f82c|Jurídico|48|Outro|Problemas respiratórios por ar condicionado|88|M16.5|2024-10-03
+d825a168-8456-45d1-b20d-96b538a9f125|Financeiro|37|Outro|Acidentes com quedas internas|46|G57.2|2025-02-08
+8afec998-c81a-4f37-80da-dab3dd9010f8|Operações|27|Masculino|Enxaqueca relacionada a iluminação inadequada|41|F77.4|2024-02-08
+2009a6c7-5b3e-4be1-950c-19412b521a5f|Logística|22|Feminino|Depressão|119|R90.9|2025-01-09
+5ad30473-55fa-4a21-811c-ce93811d3b39|Comercial|56|Feminino|Acidentes com quedas internas|114|R71.5|2023-07-08
+f9e0bd9e-8199-4dd1-9d0d-ed4450fae5ce|Marketing|56|Masculino|Distúrbios de sono por carga de trabalho|6|M69.3|2024-01-29
+37d56719-e16d-4539-8c24-153e40ab77e7|Jurídico|26|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|43|M67.2|2024-07-05
+7b4faf85-a44d-4601-adac-72aba7930020|Comercial|24|Feminino|Síndrome de Burnout|26|F70.0|2024-01-22
+b467e8b9-43d7-4b11-9c14-59f5d726ca84|Administrativo|29|Masculino|Problemas de visão (uso prolongado de telas)|40|G14.1|2024-10-05
+2609ac39-dcd5-436c-b7a0-1a5a22e54e3b|Operações|24|Masculino|Problemas respiratórios por ar condicionado|118|R78.1|2024-11-07
+70a0224e-560e-4b6c-98f0-18e6682e9b0d|Marketing|60|Feminino|Problemas circulatórios por sedentarismo|106|F56.9|2024-11-01
+e90b5991-7bc4-4955-8db6-c8de7067a17a|Comercial|22|Outro|Ansiedade relacionada ao trabalho|88|F34.3|2024-12-25
+1a7962a3-3865-42fd-87c7-8cd54c8be298|Atendimento|49|Outro|Choque elétrico por equipamentos mal conservados|118|M79.8|2024-05-20
+ba34cb89-6a5a-4cfc-ba05-3a50bbcae871|Financeiro|56|Outro|Ansiedade relacionada ao trabalho|101|M92.6|2025-03-03
+46ee5ddc-f848-4a3a-bee2-03f1bd2f1c87|TI|31|Feminino|Distúrbios alimentares em razão da jornada|30|G49.6|2024-04-02
+d317c24d-07f5-44a3-a919-4aceb5dcf320|Comercial|47|Masculino|Enxaqueca relacionada a iluminação inadequada|24|M71.4|2023-07-31
+1296ca2b-5940-4622-9a50-6c241a252808|RH|24|Outro|Alergia a poeira ou ácaros no ambiente|61|F95.4|2023-12-05
+3d7ac412-04e0-40b1-b8e2-811eae287bc3|Financeiro|47|Masculino|Problemas lombares|95|G95.3|2023-10-14
+7e927c45-2a72-439a-8c77-c072f45dd529|RH|31|Outro|Acidentes com quedas internas|119|F20.4|2025-03-09
+d1cde761-b26f-4991-937e-b83054d14b33|Financeiro|61|Outro|Estresse ocupacional|92|G43.0|2024-10-19
+66131ea5-02e7-4654-9914-b0abae309789|Comercial|53|Masculino|Problemas de visão (uso prolongado de telas)|77|M45.6|2024-11-15
+c09de9cb-1d09-4b92-bfd3-8d39b1808c60|Comercial|48|Feminino|Problemas de visão (uso prolongado de telas)|104|R29.1|2024-11-05
+63ef8d6d-1e6f-46df-b06f-ac3ef0985435|Marketing|22|Feminino|Depressão|93|F73.4|2023-11-28
+5f6a214c-5c36-4b68-b99d-5ca68c39a1e1|Comercial|26|Masculino|Problemas respiratórios por ar condicionado|14|T91.5|2024-09-20
+d3a669f5-f084-4627-8895-1a80cd0c2b0b|RH|61|Outro|Síndrome de Burnout|91|R94.6|2025-03-01
+cb16d67a-6df8-4657-923c-91650a594dfa|Financeiro|28|Masculino|Problemas lombares|47|R14.8|2024-08-19
+7ac692c6-79f9-4faa-a884-fc662033db3c|Comercial|38|Outro|Estresse ocupacional|40|R90.7|2023-11-23
+b42e5f3f-8013-4bd8-98cb-f95f9dfa90b6|Administrativo|45|Outro|Estresse ocupacional|68|F45.0|2024-02-26
+95cf8161-20eb-483b-9514-31456d3ce592|Operações|29|Outro|LER/DORT (Lesão por Esforço Repetitivo)|59|T56.7|2024-08-22
+caf223d3-6ac5-48cb-93b2-15fed3b86a06|Administrativo|40|Feminino|Tendinite|56|M99.1|2024-07-25
+cf99a7d7-1e1a-42b8-8eca-9448af293160|Jurídico|35|Outro|Acidentes com quedas internas|103|T35.6|2025-04-19
+d6a47c69-1b43-4f5c-98a1-9f3c005e173b|Logística|42|Outro|Alergia a poeira ou ácaros no ambiente|35|F61.2|2023-10-30
+ec3c430f-c51a-4a95-b175-138ba4ab9f33|Administrativo|51|Masculino|Problemas de visão (uso prolongado de telas)|51|F34.5|2024-05-08
+40f3a9c6-b210-4df4-a812-c31bd9100465|Financeiro|28|Masculino|Fadiga crônica|56|R80.6|2023-07-05
+07f706b1-2b31-4086-8619-dd3f4e36c6aa|Jurídico|28|Feminino|Síndrome de Burnout|45|G63.3|2024-03-22
+57207bd5-07e1-41c2-8cb3-e84ecfb47395|Atendimento|24|Masculino|Enxaqueca relacionada a iluminação inadequada|67|G53.2|2025-02-13
+21cb97b2-ce70-4753-adcf-27442031c5e1|Atendimento|30|Feminino|Distúrbios de sono por carga de trabalho|108|G40.8|2023-08-18
+28cc6c23-697c-49cd-bba1-e7ab3afb77c6|RH|40|Masculino|Depressão|100|T60.3|2023-10-20
+0f35e7cd-bc7e-425c-a653-64773a5946b0|Atendimento|53|Masculino|Acidentes com quedas internas|73|F33.8|2023-07-02
+983ce9ad-ee45-436b-ba39-f20e33a35be5|Administrativo|22|Feminino|Alergia a poeira ou ácaros no ambiente|37|T77.1|2025-01-23
+0970ece9-09ec-4a18-9e8a-877996654006|TI|41|Feminino|Enxaqueca relacionada a iluminação inadequada|12|T36.6|2023-12-28
+6fe2ea2d-dc0d-465c-bb21-aa89be384c30|TI|31|Feminino|Problemas lombares|24|M89.2|2024-08-09
+c9dbe7c4-18f3-44ff-a748-451b2a727988|Comercial|38|Masculino|Distúrbios alimentares em razão da jornada|19|M24.3|2024-05-06
+e997832c-b3dd-4272-9f6f-c6ec0a690aba|TI|52|Feminino|Depressão|110|M62.8|2024-09-22
+af49387a-011b-47bd-8074-d27d906f660a|Financeiro|45|Outro|Crise hipertensiva induzida por estresse|43|M17.2|2024-08-11
+938a3c50-108a-48e2-a5c8-d2897526db3e|Jurídico|32|Masculino|Síndrome do túnel do carpo|93|M61.2|2024-09-24
+6e554688-ca93-42b5-93e7-379d2aced5ed|Comercial|33|Feminino|Enxaqueca relacionada a iluminação inadequada|35|F31.2|2024-11-30
+2848d4c1-ed49-4c6d-be57-974787a49d88|Jurídico|47|Outro|Síndrome do túnel do carpo|51|M91.1|2024-05-13
+cc120786-6374-4163-8be2-dadc3fc65c1a|Atendimento|52|Masculino|Enxaqueca relacionada a iluminação inadequada|24|T72.2|2024-07-24
+4b6f6cbc-31c2-414f-bd04-1a1ee1e566e5|Administrativo|43|Feminino|Alergia a poeira ou ácaros no ambiente|84|R37.2|2023-11-09
+383342f7-63ff-43e6-bcc9-6eaf3cda4faf|Administrativo|61|Feminino|Distúrbios de sono por carga de trabalho|54|F73.3|2025-01-02
+6e3c206e-4776-4319-a96f-a6d448d4878e|Operações|52|Outro|Fadiga crônica|14|G74.4|2025-04-10
+b0b41ac0-7538-4633-88de-5dbd15e216d3|Jurídico|41|Outro|Ansiedade relacionada ao trabalho|97|F67.5|2024-01-23
+dacb79b2-4200-46fb-9a98-6879227447c7|TI|22|Feminino|Estresse ocupacional|103|T52.5|2025-03-08
+6156b0b6-4a9c-4dc6-b3ba-f89d4587f9fe|TI|47|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|115|F42.6|2025-04-06
+0b2868a9-370f-491a-b2e8-14647d3998f2|Jurídico|55|Masculino|Síndrome do túnel do carpo|107|T56.1|2023-06-10
+3c570d4e-f537-4ce9-a4ff-f0f39bfc1574|Marketing|51|Outro|Ansiedade relacionada ao trabalho|114|T72.0|2024-11-09
+e8a7fed9-f4a9-48fb-a586-1e983d2a854c|Atendimento|38|Masculino|Síndrome do túnel do carpo|11|G15.2|2024-06-03
+41503399-6668-4b45-b4d0-0afcada97f0d|Logística|33|Outro|Síndrome do túnel do carpo|47|R93.0|2023-08-10
+25ff6d6b-5a47-4141-9a27-82eaf3f09278|Operações|44|Masculino|Distúrbios alimentares em razão da jornada|34|R56.5|2024-07-10
+d4eafbbb-5dd0-4868-b1d1-2a2688229f84|Marketing|34|Outro|Problemas respiratórios por ar condicionado|50|T82.6|2023-11-10
+3148ced3-ff38-4844-8c10-40629845c433|Comercial|57|Masculino|Ansiedade relacionada ao trabalho|67|R63.7|2025-01-20
+bdf6a5d4-ea88-4d8d-b76d-82e1cc5ea2f1|Financeiro|27|Feminino|Estresse ocupacional|65|T42.6|2024-01-09
+b8e9a5f4-7c7e-4904-9630-e952761ea6ed|Atendimento|25|Feminino|Síndrome do túnel do carpo|12|T45.7|2023-12-06
+a8d8b3cf-f8e3-402a-b2b6-cfe769e6333b|Logística|32|Outro|LER/DORT (Lesão por Esforço Repetitivo)|61|T12.7|2023-11-17
+ec982e12-9952-4f1f-bfe7-16b5b61d6bd0|Jurídico|37|Feminino|Distúrbios de sono por carga de trabalho|110|R26.7|2023-11-12
+aa7abd77-0d9a-4cf3-b66b-e642abad7df2|TI|42|Feminino|Alergia a poeira ou ácaros no ambiente|50|M50.5|2023-11-28
+7d146421-b4fb-4d1d-ab42-1b1a42e91e1c|Financeiro|59|Feminino|Fadiga crônica|80|G93.4|2025-02-23
+501b4559-0e01-4203-aee4-d8f39036c3e6|RH|60|Outro|Distúrbios alimentares em razão da jornada|99|G47.2|2024-02-29
+c682fe69-97f0-4732-b7db-ba218883df0d|Administrativo|34|Masculino|Depressão|78|T45.7|2025-03-19
+3fff99ad-532b-4b7b-a716-e8bfc839c47f|TI|48|Outro|Tendinite|54|G79.3|2024-04-22
+e5d764c9-ee2e-4daa-8866-48a8693206f3|RH|60|Outro|Problemas circulatórios por sedentarismo|105|G51.5|2023-10-24
+d7ac94d7-24cb-465c-92e1-5a1b12f09081|Financeiro|59|Masculino|Crise hipertensiva induzida por estresse|47|M94.1|2023-11-13
+f3fcea9d-4806-4dcd-bc33-d2ebc42c0c66|Operações|48|Masculino|Choque elétrico por equipamentos mal conservados|46|G51.1|2025-03-21
+0a19dfb9-cf9f-49bd-8a05-cbb116574f78|Atendimento|37|Outro|Problemas respiratórios por ar condicionado|63|G29.2|2024-12-19
+e9ef1b8a-00ff-4352-8f16-9e77e3a221c2|Financeiro|51|Outro|Crise hipertensiva induzida por estresse|98|M40.9|2023-11-18
+4880d42e-c91a-405f-a9f8-533c8b6d13e8|Financeiro|59|Feminino|Fadiga crônica|17|G81.0|2024-11-25
+c075cc4c-d1d7-4502-94fc-cc7630ed0249|Administrativo|39|Masculino|Depressão|117|R65.5|2024-12-02
+a337c062-466d-45bc-a9f8-76d404787258|Operações|38|Outro|Fadiga crônica|69|T22.7|2024-02-14
+97558b34-3578-4640-b448-e407fa0034b4|TI|36|Masculino|Tendinite|84|M71.2|2023-06-29
+bce983c6-7da2-4621-bb8d-ecee5dcf4db6|Logística|60|Outro|Fadiga crônica|96|T81.2|2025-04-27
+f5eaf3b5-8d42-4262-8da6-fbbb397066ed|Atendimento|53|Masculino|Enxaqueca relacionada a iluminação inadequada|83|T31.9|2025-03-30
+aa758b1b-9ebf-479d-87a5-f2bf6b07ed76|Financeiro|43|Masculino|Problemas lombares|111|F72.4|2023-09-21
+2dfaa7ec-b456-4faf-bc68-66b69616131b|RH|30|Feminino|Cervicalgia (dores no pescoço)|71|R56.0|2023-09-08
+149e3521-02c2-459e-b35e-cccff235f4cb|Logística|40|Masculino|Tendinite|14|R26.0|2025-01-29
+715bd8d4-0ecc-49b1-b0fd-a9b5e37e661b|Operações|24|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|105|R42.0|2024-09-13
+49d98745-a59d-4fe0-beec-a7dc41d8675c|Administrativo|33|Masculino|Problemas circulatórios por sedentarismo|13|F16.8|2023-08-14
+3e147922-43bc-489e-a09e-a5b88b2ddd31|Atendimento|26|Outro|Choque elétrico por equipamentos mal conservados|96|R93.2|2024-02-28
+b945c5cb-fcbd-4575-8c75-ceb3f40908b7|Marketing|49|Feminino|Alergia a poeira ou ácaros no ambiente|69|M60.9|2024-12-23
+5ed110f5-2215-4963-b757-e58269ec771c|Atendimento|54|Feminino|Distúrbios alimentares em razão da jornada|73|G95.5|2024-06-13
+aa1d2942-ae89-424e-af9c-43f118ade352|Comercial|48|Outro|Distúrbios alimentares em razão da jornada|63|T54.0|2024-05-10
+aa31731d-11a7-419d-9fe5-fafa3aeaf13a|Administrativo|52|Outro|Tendinite|19|R64.1|2023-10-12
+cf86827d-5dfc-4a4d-9207-2dcb3eb07f42|Comercial|34|Masculino|Estresse ocupacional|33|F40.6|2023-09-06
+3cd24f84-d194-4af9-b36b-f54032762428|Comercial|49|Masculino|Problemas de visão (uso prolongado de telas)|73|G55.5|2023-11-24
+e415fe76-fa51-4d5f-94b1-264b649bfa07|Operações|32|Masculino|Crise hipertensiva induzida por estresse|115|F54.8|2024-10-03
+44934524-52c8-43be-a754-d4b41d326cdb|Marketing|28|Masculino|Depressão|61|M13.1|2024-12-07
+6a9ed27b-b121-44ad-866a-07ff3c4e3965|Jurídico|49|Outro|Estresse ocupacional|64|M27.1|2024-07-09
+da468c0a-4fe1-43d6-a522-10f900e97a40|Comercial|22|Outro|Estresse ocupacional|10|T34.7|2024-04-24
+c79e4c5b-a52a-4a9a-8d25-58c0ce35e2dc|RH|50|Masculino|Problemas lombares|103|R36.9|2023-09-18
+ab1af313-62c8-4020-b4f5-cf4d605b15bf|TI|38|Feminino|Fadiga crônica|48|G21.7|2024-01-16
+14eedcb4-1721-4e6f-adc4-2bfeaf6d32ab|TI|36|Outro|Problemas lombares|17|T50.6|2024-10-14
+dc541935-bc5d-47c2-b6bc-f51b94e7eda7|TI|25|Feminino|Acidentes com quedas internas|91|F11.9|2023-06-02
+eab946ba-dd68-4e30-ac42-9c94b9bd3ff1|Marketing|54|Outro|Ansiedade relacionada ao trabalho|54|R29.6|2024-11-19
+b1d7f3c3-48b6-4c39-ae33-c816f0ea9213|Administrativo|57|Outro|Síndrome de Burnout|100|R80.1|2023-11-07
+b0009681-4e63-47c6-b53e-a7bdbd85ea4f|Atendimento|32|Outro|Acidentes com quedas internas|102|M12.5|2024-11-21
+2db50740-ea48-49dc-a50e-4e12fd0c8997|Comercial|62|Masculino|Fadiga crônica|5|M49.0|2024-04-27
+e0e29893-a0d5-4bd4-8538-6524d4a4bdfb|TI|33|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|59|T47.4|2024-07-03
+5467dc20-aea6-4f10-85ea-cef8e21cba7f|Comercial|57|Outro|Síndrome do túnel do carpo|24|T94.5|2025-04-08
+cbdd5ec3-0548-4be3-a54c-9017c7373121|Atendimento|45|Feminino|Problemas de visão (uso prolongado de telas)|64|G44.8|2025-01-24
+fbac7990-cdec-42d5-8c01-3c594af240ad|Jurídico|43|Outro|Choque elétrico por equipamentos mal conservados|68|R70.8|2024-08-22
+1aa07519-fe71-4a99-8ba1-b2c48ec433a7|RH|52|Masculino|Problemas lombares|97|R11.6|2025-03-13
+e2c185a9-4d7d-42df-b7e8-05b57c69143e|Comercial|38|Outro|Alergia a poeira ou ácaros no ambiente|85|R18.0|2024-11-14
+118f361e-73b9-43ad-813f-24b0e2a3da7b|Marketing|50|Feminino|Choque elétrico por equipamentos mal conservados|16|G87.7|2025-01-30
+c76d4d02-305b-4bb7-bda6-23e1beb9fef1|Comercial|32|Feminino|Crise hipertensiva induzida por estresse|18|G80.1|2023-11-15
+5b2b71bb-fb3a-4a6c-aaad-2d0d4b1791fd|Comercial|36|Masculino|Síndrome do túnel do carpo|62|G40.7|2025-03-20
+ee1dcd99-efae-46da-b428-333698bab4c1|Jurídico|36|Masculino|Distúrbios de sono por carga de trabalho|86|R92.8|2024-09-30
+bf290147-0c5b-49e1-9bfe-1c2858b41fd8|Jurídico|55|Feminino|Tendinite|58|G82.3|2023-05-28
+1e6bd1b6-491c-46b0-9bd0-9f588dde1f60|Marketing|41|Feminino|Crise hipertensiva induzida por estresse|98|F44.3|2024-11-23
+b4fdbc6a-9176-4233-a9a7-65c1503a68fe|Financeiro|26|Masculino|Enxaqueca relacionada a iluminação inadequada|118|F61.2|2024-03-04
+5b40c26e-96c1-4cd5-90e3-61ee038660a7|Financeiro|22|Masculino|Distúrbios alimentares em razão da jornada|71|F84.2|2025-05-10
+df52fe96-2cde-4620-9dd8-0d1c6314d7eb|RH|56|Masculino|Estresse ocupacional|87|G18.1|2025-05-16
+6f752865-33e0-4f76-b39f-cd935d88713c|TI|35|Outro|Distúrbios de sono por carga de trabalho|40|R71.0|2024-04-17
+6ee3b73e-bcf5-41ff-9eb9-c3b2433eb673|Jurídico|49|Outro|Fadiga crônica|57|T77.1|2025-05-17
+deb628df-bb2e-4568-b1c9-46cdf6552fcc|Marketing|45|Masculino|Distúrbios de sono por carga de trabalho|71|T78.3|2023-08-10
+526bbd75-cdc4-4732-b469-239c2747e260|Jurídico|38|Masculino|Síndrome de Burnout|60|M95.7|2023-09-21
+d258e830-0217-4f75-b217-e5eabe396099|Logística|32|Masculino|Choque elétrico por equipamentos mal conservados|84|G99.7|2023-12-18
+ec2a9680-da41-4eb8-9e2d-b58102861c12|TI|26|Feminino|Problemas circulatórios por sedentarismo|79|R29.8|2023-09-01
+57eda716-6474-4371-bbfe-266183d90a8d|TI|62|Feminino|Distúrbios alimentares em razão da jornada|113|G15.2|2023-12-26
+054f0ae7-dedf-4f67-ab3e-661558b11960|Comercial|25|Feminino|Síndrome do túnel do carpo|45|G40.5|2023-11-22
+c1b22e38-9e27-4664-afaf-ff0ba7e53030|RH|30|Outro|Cervicalgia (dores no pescoço)|14|R34.5|2024-03-02
+b38f6e50-d31c-4557-b311-7be859de213e|Comercial|26|Outro|Fadiga crônica|76|R79.5|2024-04-03
+b7890bd8-fd61-4d3f-9c9e-6aa23fcea8b0|Logística|47|Feminino|Tendinite|76|G79.4|2024-04-01
+09d35568-ad90-486d-b8a6-bd5035c9d441|Operações|39|Outro|Distúrbios de sono por carga de trabalho|118|F16.3|2024-04-25
+110b29b4-238e-40a9-886f-4c74e044a85b|Logística|52|Feminino|Problemas circulatórios por sedentarismo|101|T58.7|2024-10-12
+cebacf11-7e84-48e3-a0a1-e17c25d84d73|Administrativo|30|Feminino|Tendinite|31|F59.0|2023-06-10
+78c66726-d41b-48ba-9dc2-1c5e482c5e0c|Operações|41|Feminino|Fadiga crônica|38|R32.8|2025-04-04
+40af2b81-4ae7-40df-aafb-b6a963cab247|Financeiro|37|Outro|Distúrbios de sono por carga de trabalho|104|R86.9|2024-03-10
+803662d2-93d4-4395-bbda-35ece7ad9669|Marketing|60|Outro|Distúrbios de sono por carga de trabalho|83|R20.0|2024-05-16
+ab10e37a-6f69-4437-82e8-d50b23d2ecc1|Atendimento|28|Feminino|Alergia a poeira ou ácaros no ambiente|11|M99.5|2025-03-03
+f82c5516-b10d-4156-9f6a-711c7ea7836c|TI|57|Feminino|Síndrome do túnel do carpo|70|T32.1|2024-04-18
+f3883446-86c0-4c40-b451-060988f3ad14|Operações|39|Outro|Alergia a poeira ou ácaros no ambiente|99|F85.1|2024-09-11
+bd431ff0-eb69-47cb-9ab3-405a76e9c6f2|Financeiro|33|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|13|G46.0|2024-04-23
+eb9bb2fb-22ac-4733-8d33-7315147bd530|Marketing|46|Masculino|Crise hipertensiva induzida por estresse|34|F39.1|2023-07-03
+36930858-ea72-4600-8351-0cea5d819dbb|Marketing|39|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|86|G45.8|2024-11-29
+794cb9aa-841c-464b-97a5-b20474b940e0|Financeiro|31|Outro|Tendinite|46|T51.3|2024-12-21
+735d9049-dfab-4b93-8cb3-9ae3c13325ac|RH|47|Feminino|Crise hipertensiva induzida por estresse|39|G38.5|2023-11-27
+26e8c093-e09f-4617-8a7e-b3f4ba7c12a1|Administrativo|23|Feminino|Problemas lombares|115|R24.2|2024-11-09
+65f17e38-f125-445e-8ff1-71236df07d64|Atendimento|41|Feminino|Tendinite|47|G72.6|2025-05-13
+50b22fb4-2e45-48cf-930c-65b256183a58|Marketing|49|Masculino|Problemas respiratórios por ar condicionado|108|M82.1|2023-11-08
+1fa914a6-30b9-493a-9d5e-f24934124ac7|Jurídico|56|Masculino|Problemas lombares|114|T96.7|2024-02-01
+bfc98cc4-9802-4223-b6be-8f306cb16588|Administrativo|26|Masculino|Crise hipertensiva induzida por estresse|64|M18.7|2024-09-08
+690a27dd-11bf-4fe0-a360-bc699243a79f|Jurídico|47|Feminino|Distúrbios alimentares em razão da jornada|59|T30.5|2025-01-04
+e4c12ea8-67ff-4323-b9fb-f487284bbeeb|Comercial|51|Feminino|Enxaqueca relacionada a iluminação inadequada|67|M89.2|2023-09-13
+cf1cc403-56fe-4dd7-977d-089c5ef935fb|Atendimento|45|Feminino|Enxaqueca relacionada a iluminação inadequada|94|M38.9|2024-06-25
+86fda676-78f2-4adf-a2cb-6cd8f7340b7c|TI|51|Outro|Problemas lombares|106|T12.0|2024-11-10
+db1717e4-4e2e-4ff8-9dd8-0027bbcc3379|Logística|22|Masculino|Fadiga crônica|7|G76.0|2024-02-22
+38ac08e1-730f-4021-b65a-59c628a10fc8|Marketing|51|Masculino|Síndrome do túnel do carpo|72|M52.8|2024-06-16
+52d413f0-6b56-4199-adb7-5c24d0adefd0|Logística|59|Outro|Distúrbios alimentares em razão da jornada|60|G47.7|2024-10-29
+f0d98332-a696-460e-8280-7b960d067c0c|Financeiro|37|Masculino|Alergia a poeira ou ácaros no ambiente|22|M54.3|2025-05-09
+5c2eef1b-3a60-48b6-aebc-4e90c129953c|Administrativo|51|Masculino|Problemas de visão (uso prolongado de telas)|68|F29.8|2023-07-03
+2157e11c-c1d5-42e3-a9fd-86c8f3607707|Operações|61|Masculino|Choque elétrico por equipamentos mal conservados|58|F60.2|2025-03-09
+91a9b5ee-9707-4ffe-98cc-faff5f998058|Logística|59|Outro|Ansiedade relacionada ao trabalho|66|G29.2|2024-02-26
+c0f55342-e737-495f-80c9-341e9b4e310c|RH|50|Feminino|Tendinite|49|M40.8|2024-12-15
+08564015-8dc2-45b9-9ca1-992ccb85413b|Administrativo|26|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|51|G78.4|2023-09-19
+a9fa6c46-bb0d-4cb3-82e7-ae1d6ee25365|Comercial|40|Outro|Alergia a poeira ou ácaros no ambiente|84|R93.2|2024-02-13
+5ebbd833-5a38-4a82-a6a9-080b1a3a83bf|Logística|45|Feminino|Choque elétrico por equipamentos mal conservados|15|F72.1|2023-07-19
+d3081e6e-8817-4627-bb54-ab340fe6fc9f|RH|59|Masculino|Síndrome de Burnout|17|M97.8|2025-03-20
+7bee89ea-15a2-4161-bd9a-3f0435286d8a|Atendimento|57|Masculino|Alergia a poeira ou ácaros no ambiente|18|R87.1|2024-03-19
+42dda4f6-6fbd-4e35-ae22-f52e907fa081|Logística|23|Masculino|Distúrbios alimentares em razão da jornada|39|R19.2|2023-06-07
+57914a52-d9a8-4189-91f7-10e7378e2505|TI|39|Masculino|Depressão|16|F12.6|2025-03-26
+05f79c15-c780-4870-aea5-bade695daa39|Operações|52|Outro|Síndrome do túnel do carpo|81|F75.1|2024-10-10
+fb0b0f89-8324-4707-9533-46cd45c46524|Jurídico|41|Feminino|Crise hipertensiva induzida por estresse|109|F88.1|2023-12-11
+97dba3a4-6dd2-40ae-a612-2c600db487e5|Financeiro|47|Masculino|Cervicalgia (dores no pescoço)|101|R64.1|2024-04-28
+fa230786-0cee-4818-89fd-7de703347ba7|Comercial|44|Outro|Síndrome do túnel do carpo|17|M64.0|2024-09-02
+86a2c166-6667-4de5-99d3-8d15305f620e|TI|23|Masculino|Fadiga crônica|62|R67.5|2024-12-25
+9edc02f8-78d9-48bf-8207-82f3a8b7bb44|Financeiro|23|Outro|Problemas lombares|86|G58.1|2023-05-26
+20652ecc-56d8-4f49-bfed-71bcb112ac15|Marketing|56|Feminino|Distúrbios de sono por carga de trabalho|36|R72.4|2023-10-26
+93e22702-a3ec-4511-b77d-8abf276fcd52|Logística|36|Outro|Problemas respiratórios por ar condicionado|33|R13.2|2023-08-22
+ee449b32-1f66-413f-a784-6686d1e7f082|Administrativo|44|Masculino|Síndrome do túnel do carpo|95|T84.1|2023-09-29
+bb4f227b-5813-45af-b3e8-48afaa526027|RH|30|Outro|Acidentes com quedas internas|95|T33.5|2023-09-25
+69a5ef60-0238-4b5a-a302-c37650e41c68|Comercial|59|Masculino|Problemas respiratórios por ar condicionado|18|R65.3|2024-10-24
+f8308d0d-4421-46b4-86be-6b08c9affb3c|Jurídico|53|Masculino|Crise hipertensiva induzida por estresse|33|R55.3|2023-09-22
+4b00aee6-8a4a-4346-a82f-85a940c4bec4|Comercial|36|Masculino|Depressão|50|F90.4|2025-04-07
+6c689d51-8d40-409f-959a-e31e65b0981e|Comercial|32|Feminino|Problemas respiratórios por ar condicionado|95|F30.3|2023-09-13
+74a87c0e-9230-42ac-81e9-57bf9c274f27|Financeiro|59|Outro|Problemas respiratórios por ar condicionado|42|F59.2|2024-06-24
+146b714c-be94-4841-ba76-174ad76a1dde|TI|23|Masculino|Síndrome de Burnout|104|F76.3|2024-07-04
+7490f2c7-c095-4f76-9b39-e612e3302ef4|Comercial|35|Outro|Acidentes com quedas internas|17|M96.3|2023-12-16
+383e1f5d-2f06-4196-abaa-c6d603a1c578|Marketing|24|Feminino|Acidentes com quedas internas|50|M45.3|2024-11-13
+22f812ea-ee8c-4864-9c72-0ce90a4f44cd|Comercial|43|Outro|Síndrome de Burnout|80|T34.3|2023-07-15
+8111f359-ec60-4dab-a468-da465951eb9d|Administrativo|51|Outro|Distúrbios alimentares em razão da jornada|61|G76.0|2024-07-06
+0b34a2d0-7340-4c56-a704-e53ac13307af|Jurídico|61|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|42|T73.5|2024-12-23
+5ceb11b8-9188-4d4a-810a-6a1ea4bd8371|Administrativo|34|Masculino|Distúrbios de sono por carga de trabalho|59|R75.1|2023-08-09
+9f817ecc-6558-46f5-9c9a-0c53371bd8cf|Administrativo|35|Masculino|Enxaqueca relacionada a iluminação inadequada|46|T89.7|2024-04-09
+026367b6-3c16-4a4c-813a-bf2d19a37528|Operações|42|Outro|Problemas de visão (uso prolongado de telas)|120|T13.9|2024-07-23
+2f61e5b4-09a1-473d-8a34-0681c1b723a5|TI|34|Masculino|Problemas de visão (uso prolongado de telas)|112|F92.4|2024-03-16
+9c923d6f-1d6f-4a5a-ae08-e03068f3dffd|RH|24|Feminino|Problemas circulatórios por sedentarismo|99|R89.3|2023-11-27
+4c716066-b49a-465f-baea-6f4fa66ddadc|Jurídico|51|Feminino|Cervicalgia (dores no pescoço)|63|R61.6|2024-09-12
+933a7adc-3e57-44e9-8e54-3c98696b6c95|TI|43|Masculino|Depressão|27|M51.4|2024-06-12
+a97c338a-edc2-4c42-afab-01dbb8f1a223|Administrativo|44|Outro|Crise hipertensiva induzida por estresse|65|F47.7|2023-06-26
+877887b6-9153-4398-855c-c995da21b6bb|TI|35|Feminino|Distúrbios alimentares em razão da jornada|44|T13.0|2023-07-11
+01390002-c421-4552-9de5-7aa71fe0bb10|RH|33|Outro|Choque elétrico por equipamentos mal conservados|105|M75.0|2023-06-18
+a5061c2f-82cb-4dab-8306-2fbf6aa8f390|Jurídico|37|Masculino|Ansiedade relacionada ao trabalho|115|G40.3|2023-05-25
+a78be50f-fe27-40c3-88ca-a5fdeb27a0d3|Operações|23|Masculino|Acidentes com quedas internas|118|F15.3|2023-09-19
+4f655230-74aa-4eca-b9e6-5cdd70dcdb23|Marketing|25|Feminino|Distúrbios de sono por carga de trabalho|114|M20.7|2024-03-15
+eea10da1-0eec-4afb-9a75-105aeb3277eb|TI|42|Feminino|Problemas respiratórios por ar condicionado|64|F61.2|2024-07-19
+e5270ebc-31d4-49a5-9972-80e173a33644|Operações|38|Masculino|Problemas circulatórios por sedentarismo|18|T56.7|2023-08-28
+f8bfc632-556e-4102-ad87-91c171a53b23|Marketing|59|Feminino|Choque elétrico por equipamentos mal conservados|16|G30.3|2024-07-27
+be37a7e6-5cfa-4a1f-aab3-837bdb3f3209|TI|23|Masculino|Distúrbios de sono por carga de trabalho|9|T76.6|2024-03-08
+020ffb39-8342-4f51-b3e4-b875cf2266e7|Marketing|40|Masculino|Distúrbios de sono por carga de trabalho|30|F29.9|2025-03-09
+cc7f8005-ba65-4222-a89f-18ed73c41409|Jurídico|26|Masculino|Choque elétrico por equipamentos mal conservados|49|F79.7|2024-04-17
+c272fd5f-b97b-49bb-812f-8a01c2798242|Jurídico|62|Masculino|Depressão|65|G27.6|2024-07-15
+01900527-5687-4be9-83f1-fec07d7d7d24|Comercial|45|Feminino|Síndrome do túnel do carpo|67|G12.2|2024-09-28
+332439ef-a722-42e3-be71-7f3757b88fb6|TI|36|Outro|Estresse ocupacional|84|R92.1|2023-08-24
+2fd211da-3db2-46db-92bb-55b66acfbfa0|Administrativo|29|Masculino|Acidentes com quedas internas|25|G70.9|2023-10-06
+d46d5a36-4e70-4e99-82a7-4c428f97ddf6|Operações|62|Outro|Problemas respiratórios por ar condicionado|107|T89.2|2024-06-27
+822de91f-d567-4228-bbd6-ce098e0b564b|Logística|33|Masculino|Alergia a poeira ou ácaros no ambiente|102|F18.4|2024-02-15
+cd5e7066-c0f6-4338-96c0-9f7a80a77ab2|Comercial|27|Masculino|Cervicalgia (dores no pescoço)|44|M37.5|2024-11-16
+8b00d59a-b104-4e7f-9144-cab192686de7|Administrativo|42|Outro|Fadiga crônica|7|R70.3|2024-09-14
+8afab1b0-3e24-4b65-aeea-8f9bd8c5e819|TI|55|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|12|T68.1|2024-09-09
+3a6abf3a-095b-4651-a477-a00e0522bca3|RH|44|Masculino|Ansiedade relacionada ao trabalho|15|T73.3|2024-03-31
+fa31424e-aec7-41e6-b7a7-124aec9d0bf3|Marketing|45|Outro|Problemas de visão (uso prolongado de telas)|18|G43.4|2023-11-05
+6cebed4e-c5e7-434b-9b4c-21356085a4f0|Financeiro|29|Feminino|Síndrome de Burnout|78|R12.6|2023-11-12
+9b4f98a9-0635-4416-a3f2-51085ee9255e|Financeiro|42|Feminino|Enxaqueca relacionada a iluminação inadequada|64|R76.9|2024-03-04
+3a389f77-1572-4f74-883c-8dd07e32e03d|Jurídico|32|Masculino|Fadiga crônica|102|G22.5|2023-07-07
+254e84d1-4b4a-4023-94cb-75e1d030c2c8|TI|50|Outro|Problemas lombares|116|F12.2|2025-03-25
+614b896e-9c80-4e36-b736-ee7d58700f6b|TI|23|Outro|Ansiedade relacionada ao trabalho|81|M94.3|2024-11-29
+a4530d56-a06b-47a2-9ce6-e78342651a71|RH|46|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|106|F80.4|2024-06-04
+d753b314-0e03-4bad-8494-2590a71638c2|Atendimento|31|Masculino|Fadiga crônica|69|G80.7|2023-12-02
+61826ec1-aa06-4658-b2b4-06fcda83e44b|RH|60|Outro|Crise hipertensiva induzida por estresse|72|F76.7|2024-06-04
+1fed1d22-9a2d-4bfb-ac23-23cfb0d29dcf|Logística|52|Feminino|Problemas de visão (uso prolongado de telas)|115|G89.2|2024-04-28
+7b6b3f22-71de-47a8-82ef-b08ae43e6524|Financeiro|53|Feminino|Distúrbios de sono por carga de trabalho|80|G99.2|2023-09-10
+df0fb988-d7b4-4093-a485-4326040c5e8c|Financeiro|34|Masculino|Problemas de visão (uso prolongado de telas)|24|G39.5|2024-09-14
+bb9905e6-cdb4-44bd-a65c-c14f145ba626|Financeiro|60|Masculino|Síndrome de Burnout|34|G96.2|2024-06-27
+c743f9e7-68be-4567-9bae-690af1f4d800|Marketing|32|Outro|Distúrbios de sono por carga de trabalho|70|F22.0|2023-07-01
+f5de5eeb-cc69-467d-9d87-370cffea60fb|Marketing|56|Outro|Cervicalgia (dores no pescoço)|89|R55.6|2024-02-22
+3da244f2-3941-4e0c-bfa5-ee6024d9eadf|Comercial|51|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|92|R78.5|2024-06-16
+47185543-e7dc-45ed-9aeb-3441ce41d363|Atendimento|58|Outro|Crise hipertensiva induzida por estresse|50|M50.1|2024-09-19
+0d48afbf-0bab-40f9-9a2d-af69e7379edb|Financeiro|22|Masculino|Choque elétrico por equipamentos mal conservados|38|M39.0|2023-06-03
+d653b82f-f12f-485c-bcb2-d09c5590a896|Jurídico|53|Feminino|Choque elétrico por equipamentos mal conservados|6|M47.0|2024-08-15
+99c6f2c6-02a7-4bca-a73b-e9e4f37ddc2d|Marketing|28|Feminino|Depressão|76|M92.5|2023-11-01
+c9d3967d-b39f-49b9-8192-13b374b2abe9|Atendimento|36|Outro|Cervicalgia (dores no pescoço)|41|R43.5|2024-10-21
+0a1f9c8c-951c-49d4-9344-7dd9fc299864|Financeiro|49|Feminino|Acidentes com quedas internas|34|F42.3|2023-07-25
+86906e12-f1f7-45d9-8e82-13803cae0ca2|Marketing|61|Masculino|Estresse ocupacional|74|G20.7|2024-12-24
+a9b4ce5e-e257-493f-bc50-294700aa5c6d|Marketing|62|Feminino|Cervicalgia (dores no pescoço)|100|R61.7|2025-05-15
+33fdfc7a-5a53-431d-b7c5-fbc29519ed3a|Operações|32|Outro|Crise hipertensiva induzida por estresse|38|T49.6|2023-06-15
+a1427726-e389-4b04-90ab-c78e5fcec411|Administrativo|54|Masculino|Cervicalgia (dores no pescoço)|54|T81.6|2023-06-01
+9ae4899f-ec33-4aa9-ae9a-d8de0faf989e|RH|55|Feminino|Síndrome de Burnout|36|G18.6|2024-11-10
+079d744c-c11a-4c03-841a-028482a81fe7|Marketing|22|Outro|Enxaqueca relacionada a iluminação inadequada|43|T40.5|2024-04-19
+873721d5-9f0e-4810-9e87-22fe93e2a556|Financeiro|36|Outro|Tendinite|100|M61.7|2024-01-04
+ffc6b2a5-7b03-4982-8200-aa77c2c2508c|Administrativo|46|Outro|Síndrome de Burnout|20|R92.1|2025-04-06
+84d518d3-bbed-4cc0-9e8e-51bb00a52d86|Operações|47|Masculino|Problemas circulatórios por sedentarismo|23|R39.7|2024-05-12
+c020c170-1ffe-47b2-8f61-177dfe2a08e1|Administrativo|45|Outro|Problemas lombares|86|F21.7|2023-08-31
+e9407ec7-047b-4ff0-a3ef-c099ba23e722|Atendimento|62|Outro|Ansiedade relacionada ao trabalho|85|T35.8|2025-05-10
+e56fb75b-b17d-4245-975d-0b1c4183c343|Atendimento|33|Outro|Depressão|65|G66.3|2024-02-11
+1aa452e1-58f4-4e3c-9fdb-0c6f0a95de6e|Marketing|25|Masculino|Ansiedade relacionada ao trabalho|15|G16.3|2025-03-20
+383c4d67-6b57-482a-836c-f717680a2b82|RH|60|Masculino|Alergia a poeira ou ácaros no ambiente|92|G87.3|2024-08-28
+b235d329-309a-49a4-a9a8-d5fd86a12fa6|Logística|55|Outro|Distúrbios de sono por carga de trabalho|40|R40.4|2025-05-16
+a631ba7c-e130-4046-af89-1faa035d99cd|Financeiro|52|Feminino|Ansiedade relacionada ao trabalho|69|F97.3|2024-06-21
+c5e9a756-af28-41a3-a091-1d2b5892b4f4|Marketing|23|Masculino|Enxaqueca relacionada a iluminação inadequada|47|R40.6|2025-02-10
+0fc8998a-1e6d-4764-b6ba-4fc775f5bb74|Logística|62|Feminino|Distúrbios de sono por carga de trabalho|21|G32.8|2023-08-09
+025857fb-f64c-43ef-b25a-6b2b23a80811|Atendimento|22|Feminino|Depressão|50|F41.6|2023-07-30
+50e1c1bf-4309-4016-8b84-d7719f405104|Marketing|50|Feminino|Fadiga crônica|81|F15.1|2024-06-17
+fbb97a7e-c850-42c9-8a03-f60be1a5290a|Atendimento|45|Masculino|Problemas circulatórios por sedentarismo|73|G76.4|2023-08-19
+0a0b5e3d-2c84-4a4a-9c31-1cb91c2497a1|RH|42|Feminino|Cervicalgia (dores no pescoço)|43|T66.9|2024-01-08
+fe62be4c-8c5f-4536-9470-42a973393879|Administrativo|48|Feminino|Depressão|33|T36.3|2024-12-31
+8d7c53b5-8a61-4d96-a545-122384fc1a42|Atendimento|36|Masculino|Problemas respiratórios por ar condicionado|78|G89.3|2023-08-28
+e27e103b-a1da-4805-be08-6e2f95550657|RH|60|Feminino|Problemas lombares|42|T91.0|2025-01-05
+2fb98c34-6894-46e9-940a-5ffe902d8903|Atendimento|41|Masculino|Estresse ocupacional|53|F39.0|2024-02-29
+e15d8054-b03d-4598-b3c4-c1605177a673|Financeiro|41|Outro|Síndrome de Burnout|45|M64.6|2025-02-16
+c7b0513c-e137-4650-92bd-9264dcc16b41|Financeiro|54|Feminino|Distúrbios de sono por carga de trabalho|43|R23.5|2025-03-11
+3e6d2a81-2238-4bf7-9269-d3defef72590|Jurídico|32|Outro|Síndrome do túnel do carpo|48|T67.6|2025-05-13
+39c5b6b6-7b28-48e7-b30f-8edbb090fb75|Logística|27|Feminino|Depressão|110|G51.4|2024-05-14
+302d15d9-a1a2-4d89-9b00-8cc3507b6967|Financeiro|38|Feminino|Ansiedade relacionada ao trabalho|8|T57.3|2024-09-25
+ba3b531c-5af1-464f-be1a-e6ab9461c7ef|Atendimento|61|Outro|Síndrome do túnel do carpo|24|T18.8|2024-03-01
+dca54880-a73d-4351-802f-6e9877354c58|Comercial|41|Masculino|Crise hipertensiva induzida por estresse|77|T36.1|2024-03-23
+c30ae03d-905d-469a-a3aa-c974f21232f3|Operações|45|Masculino|Choque elétrico por equipamentos mal conservados|103|F15.8|2024-01-26
+76126255-a662-47b1-9624-9a5877d1883f|Logística|54|Feminino|Síndrome do túnel do carpo|91|R58.0|2023-09-08
+c919dedc-9b27-4ad1-89ed-3cb91a4411e2|Logística|29|Outro|Crise hipertensiva induzida por estresse|40|R11.3|2023-10-24
+b718dc71-4148-4369-925c-a5218c471a1d|Logística|38|Feminino|Alergia a poeira ou ácaros no ambiente|12|F14.1|2023-07-25
+74877f76-e521-456d-8d23-40d9250b24b6|Atendimento|32|Masculino|Ansiedade relacionada ao trabalho|57|M68.3|2024-08-27
+75490a4e-c635-4e63-a20c-8f4e871406e0|RH|61|Feminino|Distúrbios alimentares em razão da jornada|58|F76.5|2024-02-18
+61881e34-b618-47e5-8f60-4b6c8a9062bd|Financeiro|57|Outro|Alergia a poeira ou ácaros no ambiente|85|T56.9|2024-10-13
+715a9b52-0fb9-4038-9904-3e3d5f6230b8|Jurídico|32|Outro|Distúrbios alimentares em razão da jornada|107|T55.3|2023-11-10
+e1dc302a-919c-49f3-8e1a-cb0f72846e50|TI|22|Outro|LER/DORT (Lesão por Esforço Repetitivo)|92|F41.5|2024-01-20
+ff732be9-bdc8-48d3-af58-7e6ea8adabac|Administrativo|59|Outro|Alergia a poeira ou ácaros no ambiente|29|M92.9|2024-11-12
+6c8e0f22-5006-4b6e-8736-3b5407c06eac|Administrativo|61|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|115|G48.5|2024-04-02
+a23d8557-752e-4b64-8c4b-5a3c977380ab|Financeiro|25|Feminino|Síndrome de Burnout|88|R21.7|2024-07-16
+71c53bc9-6f5e-454f-a987-26f135aef902|Jurídico|59|Masculino|Estresse ocupacional|14|R46.1|2025-03-05
+66e58a3a-f882-4182-b7f0-563711aee86d|Financeiro|50|Outro|Problemas de visão (uso prolongado de telas)|52|G31.8|2025-02-16
+eae83f53-10f5-428b-9dfe-5c17c290b150|RH|22|Masculino|Tendinite|76|F55.7|2024-02-05
+f611c3e5-4361-4a87-a539-abcba11ce7b5|Administrativo|55|Feminino|Estresse ocupacional|81|R44.1|2024-09-29
+e71b547c-520e-4c6a-8154-231364d1d584|Administrativo|40|Feminino|Depressão|80|F17.0|2023-12-15
+0392cb82-4a2e-433d-ad7c-09d2f6f6e890|Operações|43|Masculino|Problemas circulatórios por sedentarismo|104|G80.3|2023-08-10
+cb53e16f-6f87-43cb-835e-fbfaa9c43f58|RH|57|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|101|G89.5|2024-12-03
+b52aea28-15ef-49af-98ec-ee132ca2e596|Comercial|36|Masculino|Tendinite|77|M66.2|2024-09-23
+4cffe591-17fa-42a3-97b8-c0d8c3c1b91c|RH|48|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|112|F58.6|2024-08-10
+0577c256-ce7f-429b-972b-88a8c07f928f|Logística|53|Outro|LER/DORT (Lesão por Esforço Repetitivo)|72|G34.1|2024-11-10
+a83215bd-427e-420d-b863-a0cd4aa2c284|Jurídico|45|Masculino|Distúrbios alimentares em razão da jornada|49|G75.5|2024-06-13
+54d39eae-e71b-427b-a42d-a536eb5290b1|RH|40|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|22|R78.6|2024-02-27
+9bdd59da-360e-48ea-a8ac-705722ec4045|Operações|23|Feminino|Síndrome de Burnout|78|F54.8|2024-02-26
+6390a819-0384-44c4-b1c3-4260eaec8e14|Marketing|23|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|21|G90.3|2023-06-15
+536ba491-3885-4a71-a37b-991acdada181|Comercial|38|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|78|T12.4|2025-05-16
+73c89868-a1ef-49e8-aa4d-902e41a804a8|Administrativo|46|Outro|Alergia a poeira ou ácaros no ambiente|83|G92.8|2023-12-14
+5faf919c-63db-47be-be98-017a3a18d74b|RH|42|Masculino|Problemas lombares|31|R41.6|2024-11-17
+32fb6f1c-025d-4103-869b-2e194598f8e2|TI|49|Masculino|Alergia a poeira ou ácaros no ambiente|62|M11.6|2024-10-01
+6a95f299-9629-41cc-98ed-16fd8f17cfb7|Comercial|32|Outro|Problemas respiratórios por ar condicionado|78|R58.4|2024-10-04
+4a55db2b-b748-4f36-bf9c-eb908d34d743|TI|57|Feminino|Choque elétrico por equipamentos mal conservados|10|T15.4|2024-03-16
+133c9f77-ba1c-4de6-94e6-39771af8b249|Atendimento|45|Feminino|Crise hipertensiva induzida por estresse|34|G70.6|2024-03-01
+5bea5696-48b8-41c3-ba35-6730d91e7d86|Financeiro|38|Feminino|Síndrome de Burnout|34|F35.8|2023-06-05
+42c9dc51-0c64-42ea-becb-be8f00fcc7b2|Operações|56|Feminino|Problemas de visão (uso prolongado de telas)|14|R66.0|2024-10-09
+e05ea05d-7481-439d-9722-294711ce0733|Marketing|55|Outro|Depressão|23|G18.3|2023-09-13
+e30dd83d-511b-4f04-ab3a-94a5dc63f074|Marketing|54|Feminino|Tendinite|86|F43.6|2025-01-04
+3791d947-b503-443e-9500-877a1a795448|Atendimento|51|Outro|Acidentes com quedas internas|21|M79.4|2023-12-04
+7a1d6131-f52c-4679-ba25-cd0ef8f69a2b|Administrativo|56|Outro|Cervicalgia (dores no pescoço)|59|M41.0|2024-12-01
+1a8bf4e3-ea16-4fb3-902a-3239e38d0e2f|Operações|57|Feminino|Síndrome do túnel do carpo|102|G20.3|2024-04-01
+ad62d881-6ad7-4022-a874-6edbfae46a3c|RH|49|Outro|Distúrbios de sono por carga de trabalho|103|R42.6|2024-03-10
+77a96afa-c78c-4084-ae48-7bfcf64b9f55|Financeiro|30|Feminino|Alergia a poeira ou ácaros no ambiente|29|T49.2|2025-02-16
+49c11c17-54d1-404b-b970-5191cf779680|Operações|29|Outro|Acidentes com quedas internas|29|R31.7|2023-07-13
+eece4489-4c4d-4968-9f4c-4cca6b992dfd|Administrativo|51|Feminino|Problemas circulatórios por sedentarismo|36|F31.0|2025-04-27
+30c2f9a6-eaf2-4d76-9cd8-741084b4625b|Jurídico|50|Masculino|Ansiedade relacionada ao trabalho|69|M61.9|2023-12-08
+766dacbc-98d1-4925-a171-6ad05851c7fe|Financeiro|46|Feminino|Ansiedade relacionada ao trabalho|54|T77.8|2024-06-27
+3ce50165-868a-48f5-9bda-3f19f2f87daf|Marketing|57|Feminino|Depressão|36|T73.0|2024-12-01
+d1a9c647-9ae2-43b2-8d08-6214f37c4bb7|Administrativo|28|Masculino|Síndrome do túnel do carpo|65|M11.2|2023-08-29
+db011d1e-466d-4311-b7be-9b04fe57005e|RH|28|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|28|F47.0|2025-03-18
+434fa2bd-4532-4e4f-8d77-a03b02b6e21a|Comercial|43|Outro|LER/DORT (Lesão por Esforço Repetitivo)|108|T89.3|2024-06-30
+614a4369-fba3-4530-85fe-5206904ef0e9|Financeiro|53|Feminino|Estresse ocupacional|115|T74.6|2024-10-18
+2f38d017-8243-4588-8644-d4043574a166|Atendimento|45|Masculino|Problemas lombares|119|R78.6|2024-06-05
+cdf01d2d-2baa-4f2c-b300-d49730eb35d0|Comercial|45|Feminino|Síndrome de Burnout|48|G53.2|2023-06-15
+4963cd37-4d41-443e-86b6-a5a60c7a495d|Administrativo|52|Masculino|Depressão|106|G38.7|2025-05-12
+71cb0542-1ab7-45e7-a7e9-ceea606a68bb|Logística|56|Feminino|Alergia a poeira ou ácaros no ambiente|94|T31.0|2025-03-31
+302b5ae4-1ad0-4438-a07f-4ab4eb8048ee|Atendimento|24|Outro|Choque elétrico por equipamentos mal conservados|116|T62.3|2023-08-14
+9fa58c00-189b-4084-8af2-397ae9b0433c|Logística|42|Masculino|Problemas de visão (uso prolongado de telas)|118|F41.8|2024-12-26
+05da37ed-8828-4fd9-bf8e-c56ea9c0423c|Logística|47|Masculino|Enxaqueca relacionada a iluminação inadequada|118|T99.0|2024-08-16
+d423cb07-e76b-4b05-80cc-6fde0bba9cb1|Administrativo|24|Feminino|Problemas de visão (uso prolongado de telas)|44|T82.8|2025-01-06
+a35a9d49-ffe2-4495-9612-ad9019eca048|Operações|25|Masculino|Problemas circulatórios por sedentarismo|77|G18.5|2024-11-13
+0da2d28d-9cb6-4689-ad74-495933a3ea45|TI|31|Masculino|Alergia a poeira ou ácaros no ambiente|117|M36.0|2023-10-29
+7b4767ae-11ed-4de4-ab80-d113ad43c851|Jurídico|48|Masculino|Ansiedade relacionada ao trabalho|110|T59.1|2023-09-25
+65e1c006-aeff-4aa8-9cb7-3782f3869000|Administrativo|42|Outro|Problemas circulatórios por sedentarismo|62|M97.9|2024-01-31
+ae9462d5-0a3d-4c4a-8d32-b1c21bb47605|Jurídico|59|Outro|Problemas de visão (uso prolongado de telas)|61|R80.7|2023-06-30
+f58d4522-ce87-4c6f-aed5-0ba55ebf3037|Atendimento|51|Feminino|Crise hipertensiva induzida por estresse|48|G38.0|2023-12-09
+0d537240-24c8-45a5-8a56-397f58f0c18f|Financeiro|59|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|79|T90.8|2025-05-18
+d39dd36a-cab2-4bf7-a72f-bfdb75baa667|TI|33|Outro|Ansiedade relacionada ao trabalho|43|M15.1|2023-12-14
+1ace0c24-9060-46a9-8ab2-f342aab8f7f8|Financeiro|52|Feminino|Problemas circulatórios por sedentarismo|65|M15.4|2025-03-20
+7065e33d-237d-491d-bcff-bca13aad5b54|Administrativo|52|Masculino|Fadiga crônica|100|M93.0|2023-08-02
+0ca962c5-7302-499e-acdd-e13fffa9b10d|TI|25|Feminino|Distúrbios de sono por carga de trabalho|94|M71.3|2024-09-24
+3bcc75cc-7359-4898-aec1-cfe7110a3ad2|TI|41|Masculino|Depressão|105|R12.3|2024-02-04
+65e9995a-b2a5-4384-929d-36266a1184fe|Financeiro|32|Masculino|Problemas respiratórios por ar condicionado|22|G59.5|2024-10-03
+db095b0c-1dce-4a09-b569-23e2de085489|Administrativo|39|Masculino|Síndrome do túnel do carpo|27|R15.3|2024-11-06
+f52173d2-db2f-482d-8a2b-99f0c7149a0b|Logística|41|Masculino|Ansiedade relacionada ao trabalho|72|G79.6|2024-06-23
+3769b640-6b0b-40c8-a44c-166c12ca8d1b|Logística|47|Outro|Alergia a poeira ou ácaros no ambiente|89|M62.1|2024-04-02
+2e0d0ced-61a8-408b-bdfa-f858d8e41e75|Logística|54|Feminino|Cervicalgia (dores no pescoço)|106|R12.9|2024-03-01
+ccaad437-96bc-48a3-b311-dc12d7d956a7|Administrativo|45|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|84|T19.9|2023-08-24
+25351116-d3e4-466d-bd83-ebf0c7835544|Jurídico|32|Feminino|Problemas lombares|9|F89.1|2025-01-18
+dd1e4b84-3090-4650-85eb-adea058082a2|Atendimento|53|Feminino|Choque elétrico por equipamentos mal conservados|94|G86.6|2024-02-07
+5bd85d67-496a-402a-a6bc-02a995cb93be|RH|39|Outro|LER/DORT (Lesão por Esforço Repetitivo)|13|T27.2|2023-09-17
+e4bcb13d-b56f-430a-ac07-b3821bf87ae2|Financeiro|60|Feminino|Enxaqueca relacionada a iluminação inadequada|77|G53.9|2025-03-25
+3e91c7fb-9bb7-4529-bfd4-c399f479b4b1|Operações|42|Masculino|Alergia a poeira ou ácaros no ambiente|118|G20.2|2024-07-29
+251dd1ac-b5a0-49c4-b5d3-9d19af66f9d4|Financeiro|35|Feminino|Distúrbios de sono por carga de trabalho|105|G97.0|2024-06-17
+aa6e25a7-8ce2-4a12-862a-1f7184364a58|Logística|27|Masculino|Estresse ocupacional|96|R50.2|2024-09-23
+a292ea2a-d007-4773-bb36-ff8e8e961c1e|Marketing|39|Feminino|Tendinite|38|G17.8|2024-11-25
+2bdd8a49-a862-4918-afcd-971c8d71594b|Logística|39|Feminino|Tendinite|22|M58.2|2023-07-18
+618571c5-9c1d-44f9-b846-c31cce79487b|Operações|60|Outro|Distúrbios de sono por carga de trabalho|51|R80.7|2024-02-14
+c7414ce9-482f-45d2-a868-a6af3f58c7d8|Comercial|60|Outro|Ansiedade relacionada ao trabalho|75|T69.8|2025-04-08
+dfc9feb3-f77e-476c-9797-b89b3147d105|Administrativo|31|Masculino|Cervicalgia (dores no pescoço)|41|G39.8|2023-08-02
+b0aebc45-3ef2-42f7-b037-265ec08d0829|Financeiro|56|Feminino|Estresse ocupacional|119|F83.4|2023-06-03
+6b6e4429-0a4d-443e-9042-df6c7226d303|Jurídico|34|Outro|Crise hipertensiva induzida por estresse|29|F36.1|2024-12-15
+d9506d4b-83fd-45dc-8fcc-863fd579d45c|Financeiro|39|Feminino|Problemas circulatórios por sedentarismo|34|M78.7|2023-08-17
+ea781424-de9e-440c-abd1-c492e6fce378|RH|24|Masculino|Síndrome do túnel do carpo|41|R64.8|2024-07-29
+a9d67838-e1fa-4106-a477-50f8a75f6e67|Atendimento|32|Masculino|Problemas lombares|8|F27.9|2023-06-30
+b3b4c385-7631-4591-b45e-916a53927a75|Comercial|43|Feminino|Síndrome de Burnout|22|T74.7|2025-03-31
+61fbaed8-9b78-46be-9c6c-2342fdc190a0|Operações|46|Masculino|Problemas lombares|86|F30.8|2025-03-27
+5e205239-6e27-445c-9985-cd191d45d0e2|Administrativo|46|Outro|LER/DORT (Lesão por Esforço Repetitivo)|68|R54.5|2023-09-01
+59e45492-c8b4-4fd6-a0db-86d1f3d07151|RH|50|Outro|Fadiga crônica|54|R76.0|2025-01-21
+dfb1252b-55ed-4a2e-96f3-6f0fdb65adde|Atendimento|30|Feminino|Alergia a poeira ou ácaros no ambiente|42|G65.1|2023-12-18
+ec0c2eda-26e7-4435-83f9-b2d234ef9470|Marketing|22|Outro|Depressão|58|M55.8|2025-02-10
+b0563f03-ec61-4f34-aea1-b29adf7ab1c4|Operações|33|Masculino|Problemas circulatórios por sedentarismo|119|T82.4|2024-12-31
+c68b7af7-fbb8-4207-8173-25736036ac6e|RH|59|Masculino|Distúrbios de sono por carga de trabalho|25|F23.4|2024-02-14
+7120b844-1298-4819-84f7-55e718cd1d32|Marketing|57|Outro|Síndrome do túnel do carpo|91|M45.6|2024-06-04
+d1e0b333-b42d-4ab0-b8aa-6503937359d7|Operações|26|Outro|Alergia a poeira ou ácaros no ambiente|15|T61.2|2024-03-07
+06f55f0c-1243-47dd-a7e8-159f750e7215|Financeiro|53|Feminino|Tendinite|101|F25.1|2023-07-31
+221c3863-c1cf-485a-8272-9b1c1fbcfde6|Jurídico|27|Masculino|Enxaqueca relacionada a iluminação inadequada|68|G80.4|2024-05-18
+e11c1902-b2f1-40b7-9063-13892fca6020|TI|49|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|21|M54.4|2023-07-29
+cfa47c63-8435-4885-bcbd-aa053e75ec76|Operações|41|Outro|Problemas respiratórios por ar condicionado|46|T73.5|2024-08-02
+e7960467-5885-4d6f-b03a-011c078a8fd1|Operações|30|Masculino|Choque elétrico por equipamentos mal conservados|119|F13.6|2025-01-21
+a25492eb-2893-4a46-b2de-b0f8b550332e|Marketing|28|Feminino|Síndrome do túnel do carpo|74|F85.2|2023-12-24
+77ecc347-1ae1-4fcb-8019-be1469432482|Jurídico|41|Outro|Distúrbios de sono por carga de trabalho|10|T45.6|2024-09-23
+ffcc4447-0508-4bf3-a712-8d4cc7b222e1|Logística|51|Outro|Crise hipertensiva induzida por estresse|37|M31.8|2024-11-30
+c9604bbd-925c-45d3-b399-c1ccf07d1293|Marketing|35|Feminino|Depressão|82|F39.9|2024-10-19
+f7fd05e7-7281-4abd-aa8b-2ed7a7e96921|Operações|29|Masculino|Síndrome do túnel do carpo|23|T58.2|2025-05-15
+7c928401-189c-465e-be77-2e8b55456e00|Financeiro|49|Outro|Cervicalgia (dores no pescoço)|83|F67.9|2023-07-13
+30957a14-1b66-4598-aef2-6c3fb7b8e1d2|Logística|23|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|12|T62.0|2024-12-04
+a76e5de7-201d-42af-b860-64eb1c17f626|Financeiro|27|Feminino|Problemas de visão (uso prolongado de telas)|51|R42.3|2023-06-14
+41ded0fc-8a17-44ee-823f-aac4af2da09b|Administrativo|52|Outro|Distúrbios alimentares em razão da jornada|41|T96.7|2024-08-24
+a08001c6-a6b3-48dd-8b58-1d2ffd7c377f|RH|55|Outro|Fadiga crônica|77|F91.7|2024-02-28
+65637ddd-1028-430c-bab7-cb733b797b6f|Logística|24|Feminino|LER/DORT (Lesão por Esforço Repetitivo)|113|M40.9|2024-01-22
+7c1cd69a-1e4c-424d-ad5a-e6768bd6d266|Atendimento|26|Masculino|Distúrbios de sono por carga de trabalho|72|T60.1|2023-11-18
+41738cb5-8b19-4c2b-9b1a-de1cd3ebedde|Logística|22|Masculino|Síndrome do túnel do carpo|49|G29.8|2024-08-27
+58ca2cb4-db25-4c92-a9fd-b02fdd2cbe65|RH|46|Masculino|Choque elétrico por equipamentos mal conservados|56|T66.9|2024-11-28
+b5c7f0e6-9cc0-48fb-bb7b-ef01430f5307|RH|62|Outro|Problemas de visão (uso prolongado de telas)|113|G41.0|2024-12-13
+e42e6818-6942-46c1-9188-f57950407c3d|Jurídico|41|Feminino|Problemas circulatórios por sedentarismo|116|T89.8|2024-02-04
+ff771a04-5da5-4bf5-9285-e36743e31e4c|Atendimento|59|Masculino|Depressão|114|M60.6|2024-09-26
+78b7edc7-a86e-4cc4-b634-84bcd6028174|TI|42|Feminino|Ansiedade relacionada ao trabalho|28|F32.3|2024-04-08
+7c4e403d-22b9-4da0-9448-1a2d654336d5|Operações|35|Outro|Cervicalgia (dores no pescoço)|115|F98.5|2025-02-20
+5d63ef0e-3bd4-4c18-924b-c41e0d3172bf|Atendimento|38|Outro|Acidentes com quedas internas|93|T23.1|2025-02-06
+e2cff151-ec8e-4efa-ad68-e7e8269eea0f|Jurídico|43|Feminino|Síndrome do túnel do carpo|29|M29.3|2024-07-31
+cf6c463a-dcf9-43f5-a6fb-84739e6381f8|Logística|62|Outro|Síndrome do túnel do carpo|119|M54.3|2024-10-16
+0c7064e4-8b73-4505-9e8f-d1647971c4f4|Financeiro|30|Masculino|Problemas de visão (uso prolongado de telas)|94|R68.0|2024-05-17
+02975539-0ff0-4d48-a103-d8c364136b68|Jurídico|41|Masculino|LER/DORT (Lesão por Esforço Repetitivo)|94|M39.6|2024-08-28
+272c8112-0971-40a3-be3e-8a355c47f418|Comercial|33|Masculino|Choque elétrico por equipamentos mal conservados|10|T20.5|2025-03-31
+b258d137-f08a-46f7-9ef2-c81bf4ce98fe|Atendimento|40|Masculino|Fadiga crônica|44|G12.7|2023-10-25
+d5159189-ad11-44c9-9e93-6ed5c6dc04ce|Logística|33|Masculino|Alergia a poeira ou ácaros no ambiente|81|R86.8|2023-11-21
+ba4c60af-c6d7-4a3a-a950-c33f467ff302|Atendimento|53|Masculino|Cervicalgia (dores no pescoço)|93|F32.7|2024-03-11
+713dc446-90ad-43a1-b85d-724174ee0586|Administrativo|60|Feminino|Síndrome de Burnout|29|G10.1|2023-09-17
+107785d6-cc69-4222-8bd0-acfce52f4508|Jurídico|43|Masculino|Enxaqueca relacionada a iluminação inadequada|93|G68.2|2024-01-20
+bf630191-2f40-46f1-af5a-99962a744f9d|Financeiro|46|Masculino|Distúrbios alimentares em razão da jornada|106|R87.9|2025-04-29
+bdb79a0a-1554-49ca-aa64-c8c3dbd54fef|Operações|32|Masculino|Fadiga crônica|56|G47.9|2024-10-07
+294e1d29-cb56-4d65-b2ca-1957baa910a3|Operações|22|Feminino|Crise hipertensiva induzida por estresse|8|T39.6|2025-01-14
+2e09f83a-6394-4530-bf81-663aec7b50c6|Operações|54|Outro|Síndrome do túnel do carpo|72|F78.7|2023-06-05
+dd4c5b50-7582-41f8-a707-c9d121add9d0|TI|30|Feminino|Problemas circulatórios por sedentarismo|25|T17.6|2024-08-08
+6f9afcea-cba4-4da2-8e57-97091cde0e70|Comercial|25|Masculino|Alergia a poeira ou ácaros no ambiente|77|T75.7|2024-12-13
+7cb31274-5c67-46b2-a17e-8d9888a2a3cd|TI|61|Outro|Acidentes com quedas internas|69|F16.9|2025-03-06
+ec43eca7-3a35-4dee-b4ab-027bd83d3731|RH|61|Masculino|Síndrome de Burnout|20|G47.5|2023-11-27
+92d3df61-e747-4358-ad52-acc745a8ca68|Administrativo|45|Masculino|Distúrbios de sono por carga de trabalho|24|T30.1|2025-04-10
+b717662f-5edd-4453-b725-ffbcd671743c|Logística|56|Masculino|Alergia a poeira ou ácaros no ambiente|42|R32.8|2025-03-25
+5d8702c0-b46c-4a0f-beb8-b9fad33de9aa|RH|53|Feminino|Choque elétrico por equipamentos mal conservados|119|M30.4|2025-02-16
+a442aa2d-1b07-4943-9ea4-5180806b2173|Comercial|59|Feminino|Tendinite|112|R61.1|2024-01-27
+f3bacac7-e2ec-49e6-bba1-141f7396ff4a|Marketing|53|Feminino|Problemas de visão (uso prolongado de telas)|29|F30.8|2024-09-08
+6e60aa5b-f684-4142-ae39-bd55fc160347|Financeiro|36|Outro|LER/DORT (Lesão por Esforço Repetitivo)|74|T57.9|2024-02-08
+e9b35f91-0788-4946-b57c-1c8a9ff8c713|Jurídico|46|Feminino|Distúrbios de sono por carga de trabalho|76|R77.3|2023-09-02
+d687c035-74c2-4154-8cae-e5433d261f59|Financeiro|59|Outro|Síndrome de Burnout|95|T96.5|2023-11-23
+7b3a2c1f-feec-4ace-885c-fb0c2d4760d0|Operações|29|Feminino|Problemas respiratórios por ar condicionado|35|T41.8|2025-02-01
+aa86e852-6d83-4f2a-bd7e-583c7da2d530|Financeiro|52|Masculino|Choque elétrico por equipamentos mal conservados|120|T44.2|2023-12-09
+dfd7899f-7ce0-4e5d-a3b0-d4d75ea44122|Operações|36|Masculino|Problemas respiratórios por ar condicionado|89|M92.8|2023-08-22
+b88009d4-2fbf-4aaa-9a10-ec523b79bc2a|Financeiro|30|Feminino|Problemas de visão (uso prolongado de telas)|55|G47.7|2024-01-20
+3ee4db33-3fd1-4917-89fd-d6af23837766|Financeiro|52|Outro|Alergia a poeira ou ácaros no ambiente|104|G99.9|2024-04-05
+07871253-3edf-4f9f-bb79-25724837eda7|Atendimento|38|Masculino|Crise hipertensiva induzida por estresse|112|G15.7|2025-01-15
+3e4c5698-b014-42d6-b92d-f2747d14272f|Comercial|48|Outro|Problemas circulatórios por sedentarismo|21|R80.3|2024-08-03
+fa04f9c9-1e06-4388-96a9-285eff881df9|Financeiro|39|Outro|Choque elétrico por equipamentos mal conservados|83|T26.4|2024-06-23
+135b063a-af2b-437d-a2c3-95e4f4702612|Jurídico|23|Feminino|Síndrome de Burnout|82|G20.7|2025-04-27
+f85c44d9-3b6c-4a22-905a-02eb546ec436|Atendimento|30|Feminino|Acidentes com quedas internas|77|T15.7|2024-02-19
+fb1dcc19-e1de-4530-b908-5459652137aa|Logística|53|Masculino|Problemas lombares|33|T69.0|2024-08-08
+52fae2d5-fd7a-4a7e-87ea-c1dc809cd87a|RH|53|Masculino|Distúrbios alimentares em razão da jornada|104|T57.3|2025-02-01
+166fd62a-1ca7-467b-96aa-88079e7b167d|TI|35|Masculino|Alergia a poeira ou ácaros no ambiente|69|T75.4|2024-11-24
+cd301fa9-26db-4597-b580-41a49109ad08|Administrativo|47|Feminino|Problemas circulatórios por sedentarismo|42|G77.1|2024-05-25
+a6da91ff-3060-409a-a15b-fb6b93c0690a|Administrativo|57|Outro|Distúrbios alimentares em razão da jornada|13|G56.4|2023-05-27
+0ac37961-f69a-4c8e-b215-1c430db310bc|RH|24|Feminino|Estresse ocupacional|16|R81.0|2023-07-23
+edcd686d-15f9-4c24-a340-1b551d304056|Marketing|25|Outro|Problemas respiratórios por ar condicionado|38|G31.3|2024-12-02
+5dda3078-f976-4bdc-b597-47b561d22a3b|Atendimento|32|Masculino|Distúrbios alimentares em razão da jornada|88|M91.4|2025-03-12
+f4ba7f23-361d-463f-b797-71a73cb36c2d|RH|42|Outro|Síndrome do túnel do carpo|86|T30.5|2023-07-20
+d54351b0-978b-4749-a8f5-e81aec2e5411|Administrativo|23|Outro|Estresse ocupacional|43|R92.2|2024-03-15
+7e06276b-a298-4809-9ad7-d57efe1ebaa7|Financeiro|57|Outro|Estresse ocupacional|94|R33.6|2025-04-28
+c59063fe-cccf-4e56-bf3e-3749d84ffe46|Atendimento|37|Feminino|Distúrbios alimentares em razão da jornada|94|R49.4|2024-05-06
+28ccea40-8ff4-46f9-b053-db858e5499d7|Financeiro|61|Outro|Enxaqueca relacionada a iluminação inadequada|28|G55.2|2024-05-02
+d9eeed4b-0e4f-4cf4-8508-a3fb6e6eeafd|TI|62|Outro|Depressão|53|T17.6|2024-01-04
+bf735db8-f01f-495b-9c88-7b6f02ef6636|Logística|56|Outro|Tendinite|69|M21.4|2024-02-05
+c840e630-6283-46a8-b0c4-acdcb858d628|Jurídico|25|Feminino|Tendinite|77|F16.6|2023-12-28
+f0195591-4ebe-4354-8818-506ffe0da05e|Atendimento|27|Feminino|Problemas respiratórios por ar condicionado|31|R75.9|2024-09-26
+00f0dc18-f1c2-4e3f-b560-fb6d0a6cfa8e|Administrativo|49|Feminino|Problemas respiratórios por ar condicionado|102|M50.4|2024-11-26
+ab3b8916-7a37-4ef4-8514-94e68cec4078|Atendimento|23|Masculino|Ansiedade relacionada ao trabalho|96|T13.2|2025-02-10
+88bd8a74-df90-4d9b-80d9-0418ef537de4|Logística|59|Outro|Síndrome de Burnout|6|M50.6|2024-12-22
+afe4690c-cddb-4ed6-96d6-2aa4c567c9d4|Marketing|30|Outro|Problemas lombares|30|G52.5|2024-07-31
+649f31ae-de9d-45e6-9340-025e117687da|Operações|31|Masculino|Síndrome de Burnout|38|R50.7|2024-10-31
+b356653e-4958-43e3-b929-a1f7b4821fb9|Jurídico|32|Outro|Enxaqueca relacionada a iluminação inadequada|28|T15.5|2024-03-24
+ed190992-a129-4c11-ae1c-e01cb7e35c7f|Marketing|38|Masculino|Estresse ocupacional|22|F56.1|2023-06-05
+1c1feb73-0c7b-4ed3-8bf0-be0da2edf6f4|Administrativo|31|Masculino|Ansiedade relacionada ao trabalho|56|G59.9|2024-10-15
+544fd851-d5ef-445b-87e5-5c6fdaa57372|Marketing|35|Outro|Cervicalgia (dores no pescoço)|83|G39.1|2024-04-16
+cc7a772f-6a34-4f7c-884d-9523a09f8556|Jurídico|50|Outro|Problemas respiratórios por ar condicionado|115|G60.3|2024-03-15
+00849853-4062-43a6-b91e-f6fb5cf4393b|RH|24|Masculino|Distúrbios de sono por carga de trabalho|18|T84.8|2024-11-06
+70a80aab-d0e3-42ca-a55f-a5cc6d7c8514|Logística|46|Masculino|Problemas lombares|55|R14.0|2024-02-20
+c416391b-2c2f-4146-9ae1-563a035b44b3|Financeiro|53|Masculino|Síndrome de Burnout|16|T46.7|2024-10-30
+41c131e8-bd90-487b-94e8-5ddf73b560f9|Jurídico|23|Outro|Acidentes com quedas internas|22|F73.0|2025-04-01
+8b8840be-aa4b-44d2-9a1a-44165cdd8b33|Logística|61|Feminino|Problemas lombares|88|G99.6|2025-02-27
+9b568e37-6515-4482-a96c-0e7437d72c18|RH|36|Outro|Distúrbios de sono por carga de trabalho|46|M19.7|2024-03-26
+68e1513f-52f4-4b77-9ac9-2f6f59efe8f4|Logística|33|Feminino|Distúrbios de sono por carga de trabalho|100|T47.5|2024-11-12
+fab729d8-b7e8-4be9-b038-0aa589fcd4b5|Jurídico|54|Outro|Problemas respiratórios por ar condicionado|118|G15.0|2023-08-27
+96a5291f-15f5-43e6-9436-23791fab90ea|Administrativo|43|Feminino|Crise hipertensiva induzida por estresse|34|R84.8|2024-09-17
+6ed28cce-1b72-432e-ad8c-9b010617981d|TI|27|Outro|Síndrome de Burnout|57|M45.2|2024-07-12
+13903922-3e5d-48b7-b79c-66e49eb955a3|Logística|61|Feminino|Enxaqueca relacionada a iluminação inadequada|30|R78.5|2025-04-09
+a64011f2-86de-4f8b-a85c-a05cb6806b23|Atendimento|23|Masculino|Distúrbios alimentares em razão da jornada|91|F56.1|2024-11-01
+3ed40bc8-c435-42b1-a1ae-539f197c0d0f|Atendimento|42|Masculino|Síndrome do túnel do carpo|76|R82.7|2023-06-28
+20bb9d3d-26d7-4371-abcd-929d4c2b2bad|RH|53|Outro|Estresse ocupacional|39|F78.6|2024-08-30
+0b4aeed5-5328-4b35-8488-9f1b541a1078|Comercial|62|Outro|Problemas circulatórios por sedentarismo|12|F49.4|2024-11-15
+79eb4c0b-86ea-489b-909b-af8669ef1ac3|TI|26|Outro|Síndrome de Burnout|20|T54.7|2024-08-24
+f105d03f-f666-477a-8510-77c89a1e6119|Financeiro|48|Outro|Alergia a poeira ou ácaros no ambiente|84|T18.2|2023-05-22
+71a851a5-3d4d-4321-8061-2587b13cbd26|Marketing|27|Masculino|Problemas circulatórios por sedentarismo|116|G34.2|2023-09-02
+e57513b6-843b-480f-bcf6-44582bf40f60|Administrativo|34|Outro|Cervicalgia (dores no pescoço)|73|T46.1|2023-06-13
+9c333bb5-bb59-4086-b480-4ed72049d02a|Comercial|54|Feminino|Depressão|106|M86.7|2024-04-13
+5b8b3c9c-e667-4ddd-8de8-6b552dc33f20|Administrativo|23|Masculino|Estresse ocupacional|47|F90.6|2023-12-02
+176b5ea4-9b1e-4abd-89d8-8c7978997ff1|Marketing|26|Feminino|Estresse ocupacional|65|T14.0|2025-03-14
+48ee44e8-08a4-42f2-ad93-33d6a59cbfc8|Comercial|22|Feminino|Tendinite|88|F48.5|2024-07-31
+f105847c-4e86-45d4-a296-67d6965acdfc|Operações|53|Feminino|Choque elétrico por equipamentos mal conservados|23|T15.8|2024-07-15
+cb920302-0dc8-4545-bd33-b78e017a9a2b|Administrativo|28|Feminino|Ansiedade relacionada ao trabalho|116|T63.1|2024-11-15
+de69ab55-2690-4d43-bd32-cb42e698180e|Operações|51|Outro|Problemas de visão (uso prolongado de telas)|5|T97.2|2024-07-10
+1f1e3906-e5bd-4341-9bd2-03542c9c8011|TI|31|Masculino|Problemas circulatórios por sedentarismo|24|M39.8|2023-07-03
+36b880e6-0996-44b7-ab4f-379939238391|Logística|35|Feminino|Ansiedade relacionada ao trabalho|45|R39.6|2025-03-24
+8f3b0415-8f71-4ea4-b0c5-e68350b68d42|TI|37|Outro|Problemas de visão (uso prolongado de telas)|72|G77.6|2023-12-27
+b421e731-7881-44e6-a5b9-98713919bf19|RH|37|Outro|Problemas de visão (uso prolongado de telas)|101|G76.4|2024-07-30
+e4ee87e4-49ab-4de1-9c11-e5ca9346f7bf|TI|22|Masculino|Alergia a poeira ou ácaros no ambiente|86|M55.5|2024-09-18
+4a9f50d5-d9c1-4748-a5a9-e6832ea0680a|Jurídico|44|Feminino|Tendinite|115|T56.4|2023-10-15
+61b9bae0-7366-42f8-89e0-bd62899bf353|Operações|30|Masculino|Ansiedade relacionada ao trabalho|61|R56.4|2025-01-25
+bdf1a85a-0737-4113-aa5b-24963abbce19|Operações|37|Feminino|Fadiga crônica|80|F83.4|2023-11-28
+21995294-e2ec-475d-a4c7-368ca7e1bd29|Administrativo|31|Masculino|Tendinite|62|M43.2|2023-08-09
+55bc6a53-097a-40f7-8710-05ca3aab41dd|RH|43|Feminino|Crise hipertensiva induzida por estresse|65|G40.6|2023-11-11
+57934207-25cd-4017-b728-48e01a183881|Comercial|27|Outro|Tendinite|22|G87.5|2023-07-02
+e1b5249d-6025-41fa-9adb-385977cfcfe3|Atendimento|26|Outro|LER/DORT (Lesão por Esforço Repetitivo)|103|R54.2|2024-06-03
+ad5c2ee7-f2d3-45d0-a0e8-8d3e969aa157|Jurídico|36|Masculino|Depressão|100|G45.1|2024-05-14
+adae7da3-eb0b-41ed-980c-a7cd914dcc0d|Logística|37|Outro|Choque elétrico por equipamentos mal conservados|84|T88.1|2024-04-29
+b11b2512-8bc9-4bf6-8b22-37db706c3d3f|Comercial|55|Masculino|Problemas respiratórios por ar condicionado|11|R74.5|2023-11-18
+245d7c61-fd7f-4a9c-b5a0-dc0357e9f0a1|Atendimento|44|Masculino|Distúrbios alimentares em razão da jornada|79|G73.7|2024-09-04
+d0fc6f72-e141-41b7-bb5e-af4b1d7614a1|TI|35|Feminino|Estresse ocupacional|75|R93.2|2023-07-17
+986b7f57-c1cc-4883-917f-219476cc0379|Atendimento|33|Feminino|Acidentes com quedas internas|100|G63.5|2024-07-31
+c47858c0-6c8a-471f-a4fe-e7c9a502d443|Administrativo|49|Feminino|Ansiedade relacionada ao trabalho|61|G12.7|2024-10-13
+bcb217c0-1f76-4b7d-beaf-dd204d7ff3a1|Administrativo|52|Outro|Problemas circulatórios por sedentarismo|5|M89.8|2023-08-06
+af5a3643-0d71-47cc-b8d0-3926d2410643|Financeiro|24|Masculino|Acidentes com quedas internas|109|G16.9|2023-12-30
+2f5f41c4-25ab-4323-a733-06d5f5a77c52|Comercial|61|Outro|Acidentes com quedas internas|24|G96.8|2025-05-02
+1c09822d-f138-4e9d-af84-75b8355894a7|Atendimento|32|Outro|Crise hipertensiva induzida por estresse|115|F87.0|2024-07-24
+f4e89aad-4978-416d-9148-47735b57c16d|Logística|50|Outro|Choque elétrico por equipamentos mal conservados|71|F47.0|2023-07-04
+87a4c640-718a-47ee-8139-4e6294d65efe|Logística|45|Outro|Problemas de visão (uso prolongado de telas)|54|T28.4|2023-11-17
+496fad9b-bdaf-47ce-8bd6-1db8fb4f699c|Atendimento|60|Masculino|Alergia a poeira ou ácaros no ambiente|68|T11.2|2025-03-29
+d68cf4e2-86e8-44d6-b37b-429843b243b4|Operações|27|Feminino|Depressão|81|R36.5|2024-08-03
+49a4f755-e909-4534-bce6-f8652ac945ec|Administrativo|49|Masculino|Cervicalgia (dores no pescoço)|108|R22.7|2024-12-10
+d0e88465-4d8d-46f7-993d-8386c2fb7660|Marketing|25|Outro|Síndrome do túnel do carpo|26|T97.1|2024-03-19
+26973e6b-bf62-41fc-af20-a8d493a7d32d|Logística|58|Feminino|Choque elétrico por equipamentos mal conservados|26|R61.6|2024-09-07
+c795dac9-fe42-4e86-b685-f8f9c5a78c43|Operações|51|Masculino|Fadiga crônica|48|F24.5|2025-01-17
+08a9a5b1-3311-47a0-a2a5-c16ed262cf0b|Atendimento|35|Outro|Distúrbios alimentares em razão da jornada|80|F66.5|2023-10-09
+d0a66a3d-803b-45dc-b0c7-62ddab221819|Administrativo|43|Outro|Problemas de visão (uso prolongado de telas)|48|R90.7|2023-06-12
+a4364075-af84-4d58-a46c-631b15f61f06|Logística|33|Masculino|Fadiga crônica|19|M98.2|2024-08-24
+33204815-f58f-4bd2-91cb-534faf48800b|RH|50|Outro|Ansiedade relacionada ao trabalho|92|M41.1|2023-10-10
+bcb6ecbf-8b90-4fa1-a21e-6072b31d88b7|Financeiro|33|Masculino|Problemas de visão (uso prolongado de telas)|27|T55.8|2025-05-14
+393a7164-11d3-4aa5-964c-0011f2a12f06|Marketing|52|Masculino|Ansiedade relacionada ao trabalho|82|F60.9|2025-02-14
+112cce21-e3ab-41dd-8946-26ddd62b13fa|RH|31|Masculino|Acidentes com quedas internas|50|G50.5|2023-10-07
+a96fc5f6-3dd2-40e0-8b66-a5e6ff30fd73|RH|43|Feminino|Problemas circulatórios por sedentarismo|97|F43.9|2023-07-06
+01210c25-8416-43ae-a5ed-2fd35dcca646|Jurídico|26|Outro|Depressão|34|M15.8|2025-01-20
+25a48aef-8864-489f-9884-ab065aa741ee|Operações|59|Masculino|Enxaqueca relacionada a iluminação inadequada|74|F21.5|2023-08-09
+a6bbae41-4999-43fa-9c82-05086590b9e4|Comercial|25|Masculino|Problemas lombares|89|G79.0|2024-02-23
+8d7438cb-355e-4a3c-8ab1-07ef4c6bd16e|RH|40|Feminino|Distúrbios alimentares em razão da jornada|79|T56.5|2024-07-16
